@@ -1,0 +1,855 @@
+Project Code,Title,Commitment in U.A,Country,Starting Date,Status,Source of Financing,Sector,Sovereign
+P-TZ-K00-016,Tanzania - Covid-19 Crisis Response Budget Support Program (TCRBSP),"36,000,000.00","Tanzania, United Republic of",14 Oct 2020,Approved,African Development Fund,Multi-Sector,Sovereign
+P-AO-KF0-003,Angola - Public procurement technical assistance project,"90,000.00",Angola,09 Oct 2020,Approved,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-CD-K00-012,DRC - Support Programme in Response to the COVID-19 Crisis (PABRC),"100,000,000.00","Congo, the Democratic Republic of the",23 Sep 2020,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-BJ-KZ0-001,Benin - Multi-Country (Benin-Togo-Guinea) COVID-19 Response Support Programme,"5,100,000.00",Benin,24 Jul 2020,Approved,African Development Fund,Multi-Sector,Sovereign
+P-CF-K00-010,Central African Republic - Covid-19 Crisis Response Budget Support Programme (PABRC),"10,500,000.00",Central African Republic,24 Jul 2020,Approved,African Development Fund,Multi-Sector,Sovereign
+P-GH-KA0-008,Ghana - Covid-19 Response Support Programme,"49,500,000.00",Ghana,24 Jul 2020,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-GM-K00-013,"Gambia - Multi-country Covid-19 crisis response support programme (Liberia, Gambia and Sierra Leone)","10,000,000.00",Gambia,24 Jul 2020,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-GN-KZ0-002,Guinea - Covid-19 Response Support Programme,"24,000,000.00",Guinea,24 Jul 2020,Approved,African Development Fund,Multi-Sector,Sovereign
+P-LR-K00-020,"Liberia - Multi-country Covid-19 crisis response support programme (Liberia, Gambia and Sierra Leone)","10,150,000.00",Liberia,24 Jul 2020,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-SL-KA0-017,"Sierra Leone - Multi-Country Covid-19 Crisis Response Support Programme (Liberia,Gambia and Sierra Leone)","18,000,000.00",Sierra Leone,24 Jul 2020,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-TG-KZ0-002,Togo - Multi-Country (Benin-Togo-Guinea) COVID-19 Response Support Programme,"20,000,000.00",Togo,24 Jul 2020,Approved,African Development Fund,Multi-Sector,Sovereign
+P-UG-K00-009,Uganda - Covid-19 Crisis Response Budget Support Program (CRSP),"23,000,000.00",Uganda,24 Jul 2020,Approved,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-103,Multinational - Crisis Response Support Programme for National and Regional Mitigation of Covid-19 Impact (Djibouti and Somalia) - Somalia Component,"18,300,000.00",Multinational,24 Jul 2020,Approved,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-106,Multinational - Crisis Response Support Programme for National and Regional Mitigation of Covid-19 Impact (Djibouti and Somalia) - Djibouti Component,"30,000,000.00",Multinational,24 Jul 2020,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-RW-K00-013,Rwanda - Covid-19 Crisis Response Budget Support Program (RCRBS),"71,000,000.00",Rwanda,23 Jul 2020,Approved,African Development Fund,Multi-Sector,Sovereign
+P-BF-KZ0-003,"Burkina Faso - COVID-19 Support Programme in G5 Sahel Countries - Burkina Faso, Mali, Mauritania, Niger and Chad (PARC COVID-19 - G5 Sahel)","40,000,000.00",Burkina Faso,22 Jul 2020,Approved,African Development Fund,Multi-Sector,Sovereign
+P-MG-K00-018,Madagascar - Multi-Country Covid-19 Response Support Program (MCRSP),"60,000,000.00",Madagascar,22 Jul 2020,Approved,Fragile States Facility,Multi-Sector,Sovereign
+P-ML-KA0-009,"Mali - COVID-19 Support Programme in G5 Sahel Countries - Burkina Faso, Mali, Mauritania, Niger and Chad (PARC COVID-19 - G5 Sahel)","36,000,000.00",Mali,22 Jul 2020,Approved,African Development Fund,Multi-Sector,Sovereign
+P-MR-K00-018,"Mauritania - COVID-19 Support Programme in G5 Sahel Countries - Burkina Faso, Mali, Mauritania, Niger and Chad (PARC COVID-19 - G5 Sahel)","7,500,000.00",Mauritania,22 Jul 2020,Approved,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-MW-KA0-004,Malawi - Multi-Country Covid-19 Response Support Program (MCRSP),"32,900,000.00",Malawi,22 Jul 2020,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-MZ-K00-012,Mozambique - Multi-Country Covid-19 Response Support Program (MCRSP),"30,000,000.00",Mozambique,22 Jul 2020,Approved,African Development Fund,Multi-Sector,Sovereign
+P-NE-KA0-015,"Niger - COVID-19 Support Programme in G5 Sahel Countries - Burkina Faso, Mali, Mauritania, Niger and Chad (PARC COVID-19 - G5 Sahel)","80,000,000.00",Niger,22 Jul 2020,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-ST-K00-015,Sao Tome and Principe - Multi-Country Covid-19 Response Support Program (MCRSP),"7,500,000.00",Sao Tome and Principe,22 Jul 2020,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-TD-KA0-009,"Chad - COVID-19 Support Programme in G5 Sahel Countries - Burkina Faso, Mali, Mauritania, Niger and Chad (PARC COVID-19 - G5 Sahel)","45,000,000.00",Chad,22 Jul 2020,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-ZA-K00-005,South Africa - COVID-19 Response Support Programme (SACRSP),"212,674,437.86",South Africa,22 Jul 2020,Implementation,African Development Bank,Multi-Sector,Sovereign
+P-ET-K00-016,Ethiopia - COVID-19 Crisis Response Budget Support Program (ECRBS),"240,000,000.00",Ethiopia,03 Jul 2020,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-TG-K00-015,Togo - Facilité d'appui aux investissements agricoles des jeunes (FAIAJ),"1,000,000.00",Togo,26 Jun 2020,Approved,Fragile States Facility,Multi-Sector,Sovereign
+P-GA-K00-013,Gabon - Budget Support Programme in response to the COVID-19 (PABURC),"83,289,823.72",Gabon,23 Jun 2020,Implementation,African Development Bank,Multi-Sector,Sovereign
+P-CM-K00-010,Cameroon - COVID-19 Crisis Response Budget Support Programme (PABRC),"73,197,308.34",Cameroon,22 Jun 2020,Approved,African Development Bank,Multi-Sector,Sovereign
+P-SC-K00-015,Seychelles - COVID-19 Crisis Response Budget Support Program,"7,084,561.32",Seychelles,22 Jun 2020,Implementation,African Development Bank,Multi-Sector,Sovereign
+P-CI-KA0-012,Cote d'Ivoire - Covid-19 Response Support Programme,"61,186,529.17",Cote d'Ivoire,08 Jun 2020,Approved,African Development Bank,Multi-Sector,Sovereign
+P-NG-KA0-006,Nigeria - COVID-19 Crisis Response Budget Support Programme,"209,156,486.75",Nigeria,05 Jun 2020,Approved,African Development Bank,Multi-Sector,Sovereign
+P-SN-K00-013,Senegal - Emergency COVID-19 Response Support Programme (PUARC),"71,792,194.23",Senegal,29 May 2020,Implementation,African Development Bank,Multi-Sector,Sovereign
+P-MA-K00-021,Morocco - COVID-19 Response Support Programme (PARC-19),"215,376,582.69",Morocco,27 May 2020,Approved,African Development Bank,Multi-Sector,Sovereign
+P-CV-K00-016,Cabo Verde - COVID-19 Crisis Response Support Programme (CCRSP),"24,474,611.67",Cape Verde,26 May 2020,Implementation,African Development Bank,Multi-Sector,Sovereign
+P-KE-K00-007,Kenya - COVID-19 Emergency Response Support Program (ERSP),"153,374,233.13",Kenya,22 May 2020,Approved,African Development Bank,Multi-Sector,Sovereign
+P-MU-K00-008,Mauritius – COVID-19 Crisis Response Budget Support Programme,"155,805,839.40",Mauritius,22 May 2020,Implementation,African Development Bank,Multi-Sector,Sovereign
+P-CG-KF0-009,République du Congo - Projet d’appui au renforcement des capacités du  Ministère du plan de la statistique,"791,400.00",Congo,14 May 2020,Implementation,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-MW-KF0-008,Malawi - Promoting Investment and Competitiveness in Tourism Sector Project (PICTS) - Supplementary Financing,"692,000.00",Malawi,30 Apr 2020,Implementation,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-KE-KF0-006,Kenya - Public debt management support project,"800,000.00",Kenya,27 Apr 2020,Approved,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-CF-K00-009,Centrafrique- Projet d'appui à l'autorité nationale de l'aviation civile,"1,000,000.00",Central African Republic,20 Apr 2020,Approved,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-KF0-065,"Multinational - Streamlining Tax, Revenue Management and Digitization of Customs Admin in 5 Ecowas Countries","2,000,000.00",Multinational,15 Apr 2020,Approved,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-KF0-064,Multinational - Enhancing Investment Climate for the Empowerment of Refugee and Host Community Women in East Africa,"1,500,000.00",Multinational,31 Mar 2020,Approved,Fragile States Facility,Multi-Sector,Sovereign
+P-NA-KA0-004,Namibia - Economic Governance and Competitiveness Support Programme- Supplemental Financing,"84,892,438.62",Namibia,11 Mar 2020,Implementation,African Development Bank,Multi-Sector,Sovereign
+P-SO-K00-003,Somalia - Economic and Financial Reforms Support Program (EFRSP),"89,000,000.00",Somalia,26 Feb 2020,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-KZ0-040,"Multinational (EAC, COMESA and SADC) -  Tripartite Capacity Building Programme, Phase II","850,000.00",Multinational,20 Jan 2020,Approved,African Development Fund,Multi-Sector,Sovereign
+P-ST-K00-012,São Tomé and Príncipe - Economic Reform and Power Sector Support Program – Phase I (ERPSSP-I),"5,000,000.00",Sao Tome and Principe,08 Jan 2020,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KZ0-041,Multinational - Financial Modeling for the Extractive Sector (FIMES) in Transitional Countries,"1,000,000.00",Multinational,27 Dec 2019,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-GH-KF0-005,Ghana - Strengthening Institutional Capacity for Domestic Resource Mobilization and Economic Management,"5,300,000.00",Ghana,18 Dec 2019,Approved,African Development Fund,Multi-Sector,Sovereign
+P-MA-K00-019,Morocco - Results-Based Programme for Enhancing Regional Competitiveness in Morocco (PARACT-M),"160,982,284.63",Morocco,18 Dec 2019,Approved,African Development Bank,Multi-Sector,Sovereign
+P-TZ-KA0-007,Tanzania - Governance and Private Sector Development Support Programme Phase II,"40,000,000.00","Tanzania, United Republic of",18 Dec 2019,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-ZW-KF0-012,Zimbabwe - Tax and Accountability Enhancement Project (TAEP),"7,600,000.00",Zimbabwe,18 Dec 2019,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-CG-K00-009,Congo - Economic and Financial Reform Support Programme (PAREF),"157,358,398.48",Congo,13 Dec 2019,Approved,African Development Bank,Multi-Sector,Sovereign
+P-CV-KA0-009,Cape-Verde - Private Sector Competitiveness and Local Economic Development Programme (PSCLED)  – Phase II,"16,279,751.25",Cape Verde,12 Dec 2019,Implementation,African Development Bank,Multi-Sector,Sovereign
+P-CI-KA0-010,Cote d'Ivoire - Economic and Social Reform Support Programme (PARES),"62,884,644.41",Cote d'Ivoire,26 Nov 2019,Implementation,African Development Bank,Multi-Sector,Sovereign
+P-CM-KA0-015,"Cameroon - Competitiveness and Economic Growth Support Programme, Phase III (PACCE III)","67,491,563.55",Cameroon,26 Nov 2019,Approved,African Development Bank,Multi-Sector,Sovereign
+P-MG-KA0-012,"Madagascar - Economic Competitiveness Support Programme, Phase III (PACE III)","9,970,000.00",Madagascar,26 Nov 2019,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SN-KA0-014,Senegal - Resource Mobilisation and Reform Effectiveness Support Programme – Phase I (PAMRER I),"51,792,432.50",Senegal,21 Nov 2019,Implementation,African Development Bank,Multi-Sector,Sovereign
+P-ML-KA0-008,Mali - Economic Growth Support Programme II (PACE-II),"12,440,000.00",Mali,13 Nov 2019,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-CM-KF0-005,Cameroon - Public Finance Management Strengthening Support Project (PARGEFIP),"13,234,000.00",Cameroon,06 Nov 2019,Approved,African Development Fund,Multi-Sector,Sovereign
+P-AO-K00-007,Angola - Economic Diversification Support Program (EDSP),"117,223,299.73",Angola,29 Oct 2019,Approved,African Development Bank,Multi-Sector,Sovereign
+P-TG-K00-014,Togo - Projet d'appui à l'exécution du plan national de développement du Togo 2018-2022,"1,000,000.00",Togo,04 Oct 2019,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-SC-K00-016,Seychelles - Support to blue economy MSMEs (Technical Assistance),"586,166.47",Seychelles,12 Sep 2019,Approved,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-NE-K00-014,Niger - Economic Competitiveness and Financial Management Support Project (PACEGEF),"9,210,000.00",Niger,03 Sep 2019,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-MA-K00-017,Maroc - Projet d'Appui à l’Élaboration de la Stratégie Nationale de l'Amélioration du Climat des Affaires,"670,000.00",Morocco,11 Aug 2019,Approved,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-SN-KA0-015 ,Senegal - Resource Mobilisation and Investment Attractiveness Institutional Support Project (PAIMRAI),"10,840,000.00",Senegal,17 Jul 2019,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-BJ-K00-006,Benin - Economic Competitiveness Support Programme (PACEB) - PHASE II,"5,042,277.00",Benin,15 Jul 2019,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SL-KF0-011 ,Sierra Leone - Enhancing Tax Compliance in Sierra Leone,"1,000,000.00",Sierra Leone,20 Jun 2019,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-ER-K00-002,Eritrea - Eritrea Strengthening Tax Administration Project (ESTAP),"2,000,000.00",Eritrea,19 Jun 2019,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-BI-K00-016,Burundi - Projet d’appui à l’amélioration de la mobilisation des ressources et du climat des affaires,"1,000,000.00",Burundi,17 Jun 2019,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-ML-K00-026 ,Mali – Projet d’Appui à la Gouvernance Économique et à la Promotion du Genre,"1,000,000.00",Mali,06 Jun 2019,Approved,Fragile States Facility,Multi-Sector,Sovereign
+P-GQ-K00-008,Equatorial Guinea - Public Finance Modernization Support Project (PAMPF),"22,336,141.10",Equatorial Guinea,05 Jun 2019,Approved,African Development Bank,Multi-Sector,Sovereign
+P-Z1-K00-096 ,Multinational - Post Cyclone Idai and Kenneth Emergency Recovery and Resilience Programme (PCIREP) - Zimbabwe,"17,670,000.00",Multinational,05 Jun 2019,Approved,African Development Fund,Multi-Sector,Sovereign
+P-MA-K00-020,Maroc - Projet d'Appui à la Confédération Générale des Entreprises du Maroc (CGEM),"399,000.00",Morocco,29 May 2019,Implementation,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-Z1-KE0-025 ,Multinational - Support to Sustainable Financing of Regional Infrastructure and Industrial Projects in SADC,"1,500,000.00",Multinational,20 May 2019,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-TN-K00-013,Tunisie – Projet d’assistance technique pour appui à la mise en place d’une « Delivery Unit » au sein du Ministère du Développement de l’Investissement et de la Coopération Internationale (MDICI),"398,700.00",Tunisia,30 Apr 2019,Implementation,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-ZM-KF0-003,Zambia - Capacity Enhancement for Public Finance and Economic Management Project (CEPFEM),"8,000,000.00",Zambia,30 Apr 2019,Approved,African Development Fund,Multi-Sector,Sovereign
+P-SL-KF0-012 ,Sierra Leone - Enhancing Policy Development: Reaserch & Capacity Building,"500,000.00",Sierra Leone,25 Apr 2019,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+G-Z2-KE0-PEV-001,TFT Evaluation,"57,105.56",Multinational,24 Apr 2019,Implementation,Multi donor Trust Fund for Countries in Transition,Multi-Sector,Sovereign
+,,,,,,,,
+P-MG-K00-015,Madagascar - Projet d’Appui à la Mobilisation des Recettes Publiques (AMRP),"1,000,000.00",Madagascar,12 Apr 2019,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-K00-091,"Multinational - Emergency Humanitarian Relief Assistance Related to the 2019 Tropical Cyclone Idai for Mozambique, Malawi and Zimbabwe","721,625.68",Multinational,12 Apr 2019,Approved,Special Relief Funds,Multi-Sector,Sovereign
+P-Z1-K00-094,"Multinational - Emergency Humanitarian Relief Assistance Related to the 2019 Tropical Cyclone Idai for Mozambique, Malawi and Zimbabwe","181,472.39",Multinational,12 Apr 2019,Completion,Special Relief Funds,Multi-Sector,Sovereign
+P-Z1-K00-095 ,"Multinational - Emergency Humanitarian Relief Assistance Related to the 2019 Tropical Cyclone Idai for Mozambique, Malawi and Zimbabwe","182,703.13",Multinational,12 Apr 2019,Approved,Special Relief Funds,Multi-Sector,Sovereign
+P-Z1-KF0-059 ,Multinational - Institutional Support Project for the African Union: African Continental Free Trade Area (AfCFTA) Implementation,"3,500,000.00",Multinational,01 Apr 2019,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-CF-K00-008,République Centrafricaine - Projet de renforcement des capacités de l’administration et des acteurs non étatiques (PRECANE),"1,000,000.00",Central African Republic,27 Mar 2019,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-MG-K00-014,Madagascar - Projet d'Appui au Renforcement des Capacités d’Analyse des Facteurs de Vulnérabilité Structurelle et la Promotion de l’Economie Bleue (ARCEB),"1,000,000.00",Madagascar,25 Mar 2019,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-SO-K00-002,Somalia - Strengthening Institution for Economic Policy Management and Infrastructure Development Project (SIEPMID),"3,000,000.00",Somalia,25 Mar 2019,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-K00-092,"Multinational - Study into the contribution of the Jewelry Manufacturing and its Impact on Value Addition, Job Creation, and the Economic Empowerment of Women and Youth","1,000,000.00",Multinational,25 Mar 2019,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-MA-K00-014,Morocco - Industrialization Acceleration Support Programme in Morocco – Phase II (PAAIM II),"224,971,878.52",Morocco,14 Mar 2019,Implementation,African Development Bank,Multi-Sector,Sovereign
+P-SL-KA0-016,Sierra Leone - Fiscal consolidation support programme (FCSP),"15,000,000.00",Sierra Leone,14 Mar 2019,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-BI-KF0-007,Burundi - Projet d'Appui au Renforcement des Capacités de l’Office Burundais des Recettes - (PARC-OBR),"1,000,000.00",Burundi,02 Jan 2019,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-DZ-KF0-003,Algeria - Governance of Public Enterprises and State Holdings Support Project,"796,400.00",Algeria,18 Dec 2018,Implementation,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-NG-KA0-004,Nigeria - African Trade Insurance (ATI) - Country Membership Programme,"10,210,000.00",Nigeria,14 Dec 2018,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-MA-K00-016,Maroc - Projet d’appui au renforcement des capacités de la Commission Nationale de la Commande Publique (PARC-CNCP),"410,000.00",Morocco,12 Dec 2018,Implementation,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-CI-KF0-003,Côte d'Ivoire - Cocoa Sector Governance Support Project (PAGFIC),"5,000,000.00",Cote d'Ivoire,11 Dec 2018,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-GH-KF0-003   ,Ghana - Cocoa Sector Institutional Support Project (COSISP),"5,000,000.00",Ghana,11 Dec 2018,Approved,African Development Fund,Multi-Sector,Sovereign
+P-NG-KA0-005,Nigeria - Institutional Support for Economic Management and Delivery Project,"10,000,000.00",Nigeria,03 Dec 2018,Approved,African Development Fund,Multi-Sector,Sovereign
+P-CM-K00-009,Cameroon - Competitiveness and Economic Growth Support Programme - Phase II (PACCE II),"125,917,096.18",Cameroon,29 Nov 2018,Approved,African Development Bank,Multi-Sector,Sovereign
+P-NE-KA0-013,Niger - Support to reforms and Economic Resilience Programme - Phase 2,"20,000,000.00",Niger,27 Nov 2018,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+G-TN-KZ0-ZZZ-005,Souk At-Tanmia Tatweer,"89,737.31",Tunisia,22 Nov 2018,Completion,Multi donor Trust Fund for Countries in Transition,Multi-Sector,Sovereign
+P-GA-KA0-007,Gabon - Economic and Financial Reform Support Programme - Phase III (PAREF III) - Supplementary Funding,"84,148,876.19",Gabon,22 Nov 2018,Completion,African Development Bank,Multi-Sector,Sovereign
+P-ET-K00-015,Ethiopia - Basic Services Transformation Programme (BSTP) - Supplementary Financing,"88,660,000.00",Ethiopia,14 Nov 2018,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KF0-056,INDUSTRIAL POLICY SUPPORT - FAPA,"704,766.33",Multinational,13 Nov 2018,Implementation,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-BJ-K00-005,Benin - Economic Competitiveness Support Programme (PACEB),"7,000,000.00",Benin,31 Oct 2018,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TD-K00-009,Chad - Economic Recovery Support Programme (PARE) - Phase I,"15,000,000.00",Chad,31 Oct 2018,Completion,African Development Fund,Multi-Sector,Sovereign
+G-MA-KZ0-ZZZ-001,Souk At-Tanmia Maroc,"1,541,850.22",Morocco,01 Oct 2018,Implementation,Multi donor Trust Fund for Countries in Transition,Multi-Sector,Sovereign
+P-SN-KZ0-004,Senegal - Emergency Community Development Programme Support Project  (PA-PUDC),"49,720,735.20",Senegal,27 Sep 2018,Implementation,African Development Bank,Multi-Sector,Sovereign
+P-SN-K00-010,Senegal - Project for Support to Skills Development and Youth Entrepreneurship in Growth Sectors,"14,000,000.00",Senegal,17 Sep 2018,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-LR-K00-018,Liberia - Technical and capacity building assistance to the Government,"1,000,000.00",Liberia,13 Sep 2018,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-GN-KF0-005,Guinea - Technical Assistance Project for the Implementation of the National Economic and Social Development Plan 2016 - 2020,"1,000,000.00",Guinea,06 Sep 2018,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-LR-KA0-004,Liberia - Economic Governance and Competitiveness Support Program II (EGCSP II),"7,000,000.00",Liberia,31 Jul 2018,Implementation,African Development Fund,Multi-Sector,Sovereign
+G-EG-KZ0-ZZZ-004,Egypt: Entrepreneurship Development Project,"1,468,428.78",Egypt,20 Jul 2018,Implementation,Multi donor Trust Fund for Countries in Transition,Multi-Sector,Sovereign
+P-MG-KA0-011,Madagascar - Economic Competitiveness Support Programme - Phase II (PACE II),"10,000,000.00",Madagascar,20 Jul 2018,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-BF-KZ0-001,Burkina Faso - Energy Sector Reform Support Programme (PARSE),"15,000,000.00",Burkina Faso,18 Jul 2018,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-CV-KA0-008,Cabo Verde - Private Sector Competitiveness and Local Economic Development Programme (PSC-LED) PHASE I,"16,279,751.25",Cape Verde,18 Jul 2018,Completion,African Development Bank,Multi-Sector,Sovereign
+P-KE-K00-005,Kenya -  Technical Assistance to Enhance the Capacity of the President Delivery Unit (PDU),"1,200,000.00",Kenya,18 Jul 2018,Implementation,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-NA-KA0-002,Namibia - Economic Governance and Competitiveness Support Programme - Phase II (EGCSP II),"121,776,475.22",Namibia,18 Jul 2018,Completion,African Development Bank,Multi-Sector,Sovereign
+P-ML-KF0-001,Mali - Project to Support the Competitiveness of the Malian Economy (PACEM),"10,000,000.00",Mali,12 Jul 2018,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-TZ-KA0-005,Tanzania - Good Governance and Private Sector Development Programme (GGPSDP),"40,000,000.00","Tanzania, United Republic of",11 Jul 2018,Implementation,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-GA-K00-007,Gabon - Economic Diversification Support Project (PADEG),"51,992,061.26",Gabon,29 Jun 2018,Implementation,African Development Bank,Multi-Sector,Sovereign
+P-Z1-KB0-015,Multinational - Fund for Africa Private Sector Assistance (FAPA) Technical Assistance for AfDB's Entrepreneurship Lab,"716,425.85",Multinational,29 Jun 2018,Implementation,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-Z1-KB0-014,Multinational - Fashionomics Africa Online Initiative,"669,569.00",Multinational,28 Jun 2018,Implementation,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-SN-KE0-004,Senegal - Project to Open Up Production Areas in Support of the National Local Development Programme (PDZP/PNDL),"20,000,000.00",Senegal,22 Jun 2018,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-ZW-K00-006,Zimbabwe - Innovative Solutions to Support Livelihood of Vulnerable Communities Project,"1,102,058.00",Zimbabwe,13 Jun 2018,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-BI-K00-014,Burundi - Support energy for cooking and restoration of the environment in four refugee camps,"1,000,000.00",Burundi,02 May 2018,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-K00-084,Multinational - African Peer Review Mechanism Institutional Support Project (APRM-ISP),"2,000,000.00",Multinational,28 Mar 2018,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-NE-KZ0-001,Niger - Projet d’Appui à la Mobilisation des Ressources et la Mise en œuvre du PDES 2017-2021,"1,000,000.00",Niger,27 Mar 2018,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-GM-KA0-009,Gambia - Emergency  Budget Support (GEBS),"5,000,000.00",Gambia,26 Mar 2018,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KB0-016,Multinational - Afrexim Bank - Regional promotion of factoring in Africa,"259,657.83",Multinational,22 Mar 2018,Approved,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-Z1-KF0-053,Multinational - Strenghtening Regional and National Institutions for Reduction of Proliferation of Small Arms,"1,000,000.00",Multinational,21 Mar 2018,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-CF-K00-007,Central African Republic - Economic And Financial Reforms Support Programme (PAREF) - Phase II,"7,000,000.00",Central African Republic,29 Jan 2018,Completion,African Development Fund,Multi-Sector,Sovereign
+P-EG-K00-011,Egypt - Economic Governance and Energy Support Program III (EGESP III),"363,451,333.87",Egypt,17 Jan 2018,Completion,African Development Bank,Multi-Sector,Sovereign
+P-SD-KA0-007,Sudan - Policy Support to Preparation for Debt Relief,"660,000.00",Sudan,12 Jan 2018,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-MW-KF0-005,Malawi - Promoting Investment and Competitiveness in Tourism Sector Project (PICTS),"7,000,000.00",Malawi,11 Jan 2018,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-CD-KF0-009,Democratic Republic of Congo - Domestic Resource Mobilization and Public Finance Modernization Support Project (PAMRIM-FP),"15,000,000.00","Congo, the Democratic Republic of the",10 Jan 2018,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-NE-KA0-012,Niger - Support to Reforms and Economic Resilience Programme,"30,000,000.00",Niger,10 Jan 2018,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BI-K00-013,Burundi - Support to Agriculture Transformation in the Bugesera Natural Region Project (PATAREB),"12,000,000.00",Burundi,15 Dec 2017,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-ML-KA0-007,Mali - Economic Growth Support Programme - Phase I (PACE-I),"18,000,000.00",Mali,15 Dec 2017,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MR-K00-017,Mauritania - Economic Reforms and Diversification Support Programme - Phase II (PAREDE II),"4,000,000.00",Mauritania,15 Dec 2017,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-SO-KF0-006,Somalia - Economic and Financial Governance Institutional Support Project (EFGISP) Phase II,"5,500,000.00",Somalia,15 Dec 2017,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-KE0-023,Multinational - Emerging Africa Infrastructure Fund Project 3 (EAIF3),"53,283,318.06",Multinational,11 Dec 2017,Approved,African Development Bank,Multi-Sector,Non Sovereign
+P-TG-KA0-002,Togo - Governance and Agribusiness Promotion Support Programme (PAGPA),"9,530,000.00",Togo,05 Dec 2017,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KF0-027,Multinational - Lobito Corridor Trade Facilitation Project,"6,000,000.00",Multinational,04 Dec 2017,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-MG-K00-011,Madagascar - Economic Competitiveness Support Programme - Phase I (PACE-I),"10,000,000.00",Madagascar,28 Nov 2017,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-TD-KA0-007,Chad - Emergency Fiscal Consolidation Support Programme (PUCB),"46,000,000.00",Chad,24 Nov 2017,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-KM-K00-008,Comores - Projet d’Appui à l’Agence de Promotion des Investissements (PAAPI),"1,100,000.00",Comoros,23 Nov 2017,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-CM-KA0-011,Cameroon - Competitiveness and Economic Growth Support Programme (PACCE),"146,847,670.02",Cameroon,22 Nov 2017,Completion,African Development Bank,Multi-Sector,Sovereign
+P-LS-KF0-003,Lesotho - Tax Modernisation Project (LTMP),"5,000,000.00",Lesotho,22 Nov 2017,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-GA-KA0-006,Gabon - Economic and Financial Reform Support Programme – Phase II (PAREF II),"248,603,676.02",Gabon,08 Nov 2017,Completion,African Development Bank,Multi-Sector,Sovereign
+P-CV-KA0-007,Cabo Verde - Economic Growth Support Programme – Phase II (PACE II),"16,279,751.25",Cape Verde,19 Oct 2017,Completion,African Development Bank,Multi-Sector,Sovereign
+G-EG-KZ0-ZZZ-003,Strengthening Capacity of the Administrative Control Agency to Combat Corruption,"2,446,715.96",Egypt,01 Aug 2017,Implementation,MENA Transition Fund,Multi-Sector,Sovereign
+P-CI-KA0-009,Côte d'Ivoire - Economic Governance and Growth Support Programme (PAGEC),"36,232,000.00",Cote d'Ivoire,14 Jul 2017,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MA-K00-013,Morocco - Industrialization Acceleration Support Programme in Morocco – Phase I (PAAIM I),"147,124,813.34",Morocco,14 Jul 2017,Completion,African Development Bank,Multi-Sector,Sovereign
+P-MW-K00-007,Malawi - Statistical Capacity Building to Conduct Economic Census Project,"760,000.00",Malawi,05 Jul 2017,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MZ-KB0-001,Mozambique - Nacala Corridor Business Linkages Technical Assistance Project,"708,395.91",Mozambique,14 Jun 2017,Implementation,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-MW-KB0-002,Malawi - Malawi Nacala Rail and Port Value Addition Project,"710,444.24",Malawi,23 May 2017,Implementation,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-TD-KF0-014,"Tchad - Projet d’Appui à l’Amélioration de la Programmation Economique, de la Gestion Institutionnelle et du Cadre des Affaires","650,000.00",Chad,17 May 2017,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-NA-K00-007,Namibia - Economic Governance and Competitiveness Support Programme (EGCSP) ,"121,776,475.22",Namibia,10 May 2017,Completion,African Development Bank,Multi-Sector,Sovereign
+P-GW-KF0-009,Guinée-Bissau - Projet d'appui au renforcement des capacités institutionnelles du secteur de la justice,"1,256,450.00",Guinea-Bissau,21 Apr 2017,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+,,,,,,,,
+P-CD-KF0-010,Democratic Republic of Congo - Support Project for Consolidation of the Economic Fabric (PACTE),"4,190,000.00","Congo, the Democratic Republic of the",30 Mar 2017,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-CI-K00-011,Côte d'Ivoire - Economic and Financial Management Support Project (PAGEF),"16,402,628.00",Cote d'Ivoire,30 Mar 2017,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-GM-KF0-002,Gambia - Inclusive Growth Promotion Institutional Support Project,"3,665,000.00",Gambia,30 Mar 2017,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-SS-KF0-004,South Sudan - Non-Oil Revenue Mobilisation and Accountability in South Sudan Project (NORMA-SS),"10,650,000.00",South Sudan,30 Mar 2017,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-TZ-KF0-006,Tanzania - Institutional Support Project for Domestic Resources Mobilization and Natural Resources Governance,"19,580,000.00","Tanzania, United Republic of",30 Mar 2017,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KF0-052,Multinational - Projet d'Appui à la Transformation du CAFRAD (PAT-CAFRAD),"479,000.00",Multinational,29 Mar 2017,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-Z1-KZ0-035,Multinational - ECCAS Institutional Capacity Building Support Project,"2,000,000.00",Multinational,29 Mar 2017,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-CF-K00-006,Central African Republic - Economic and Financial Reform Support Programme,"12,280,000.00",Central African Republic,21 Mar 2017,Completion,African Development Fund,Multi-Sector,Sovereign
+G-Z1-KZ0-ZZZ-053,Souk At-Tanmia III,"2,011,038.10",Multinational,10 Mar 2017,Implementation,Multi donor Trust Fund for Countries in Transition,Multi-Sector,Sovereign
+P-ML-KA0-005,Mali - Schéma national d'aménagement du territoire,"1,000,000.00",Mali,28 Feb 2017,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-KE0-016,Multinational - Intergovernmental Agency on Development (IGAD) Regional Infrastructure Master Plan (IRIMP) Project,"2,500,000.00",Multinational,13 Feb 2017,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-LR-K00-014,Liberia - Integrated Public Financial Management Reform Project – Phase II,"6,263,000.00",Liberia,30 Jan 2017,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-NG-KF0-003,Nigeria - Sub-National Debt Management Capacity Building Project (SUBDMO),"795,789.00",Nigeria,24 Jan 2017,Implementation,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-ZW-KF0-008,Zimbabwe - Institutional Support for State Enterprise Reform and Delivery Project,"3,000,000.00",Zimbabwe,24 Jan 2017,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-TZ-KZ0-001,Tanzania - Humanitarian Emergency Assistance to mitigate the effects of the 2016 Earthquake in Kagera Region,"737,001.14","Tanzania, United Republic of",12 Jan 2017,Completion,Special Relief Funds,Multi-Sector,Sovereign
+P-GA-KA0-005,Gabon - Economic and Financial Reform Support Programme,"168,297,752.38",Gabon,11 Jan 2017,Completion,African Development Bank,Multi-Sector,Sovereign
+P-GH-KA0-006,Ghana - Public Financial Management and Private Sector Competitiveness Support Programme - Phase II,"35,000,000.00",Ghana,16 Dec 2016,Completion,African Development Fund,Multi-Sector,Sovereign
+P-LS-KF0-002,Lesotho - Economic Diversification Support Project,"7,220,000.00",Lesotho,16 Dec 2016,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-TZ-KA0-002,Tanzania - Power Sector Reform and Governance Support Programme Phases II and III,"50,000,000.00","Tanzania, United Republic of",15 Dec 2016,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ML-KA0-004,Mali - Economic Governance Reform Support Programme - Phase II,"23,150,600.00",Mali,14 Dec 2016,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-EG-K00-010,Egypt - Economic Governance and Energy Support Program II ,"352,383,167.36",Egypt,13 Dec 2016,Completion,African Development Bank,Multi-Sector,Sovereign
+P-DJ-KE0-001,Djibouti - Health Sector Skills Building Support Project,"6,307,000.00",Djibouti,05 Dec 2016,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-MR-K00-016,Mauritania - Economic Reforms and Diversification Support Programme - Phase I,"6,700,640.00",Mauritania,23 Nov 2016,Completion,African Development Fund,Multi-Sector,Sovereign
+P-NG-KD0-001,Nigeria - MIC-TAF - Rehabilitation of industrial clusters as a driver of SMEs industrial development,"423,600.00",Nigeria,08 Nov 2016,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-DZ-K00-007,Algeria - Industrial and Energy Competitiveness Support Programme (PACIE),"728,226,041.36",Algeria,02 Nov 2016,Completion,African Development Bank,Multi-Sector,Sovereign
+P-NE-KA0-011,Niger - Financial Reforms and Food Security Support Programme – Phase II,"10,000,000.00",Niger,02 Nov 2016,Completion,African Development Fund,Multi-Sector,Sovereign
+P-NG-KA0-002,"Nigeria - Economic Governance, Diversification and Competitiveness Support Program","426,266,544.47",Nigeria,02 Nov 2016,Completion,African Development Bank,Multi-Sector,Sovereign
+P-Z1-KF0-049,Multinational - Support Project to African Capacity Building Foundation (ACBF) Third Strategic Medium Term Plan – Phase II,"7,000,000.00",Multinational,25 Oct 2016,Completion,African Development Fund,Multi-Sector,Sovereign
+P-DZ-KD0-002,Algeria - Support to the organization of the African business and investment forum,"398,000.00",Algeria,13 Oct 2016,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-SO-KF0-010,Somalia - National statistical capacity building project,"1,200,000.00",Somalia,13 Oct 2016,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-SN-KA0-009,Senegal - Local Development Reform Support Programme – Phase I,"34,780,000.00",Senegal,14 Sep 2016,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ZA-KA0-002,South Africa - Municipal Financial Management Technical Assistance Project,"683,527.00",South Africa,07 Sep 2016,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-GN-K00-009,Guinea - Support Project for Building the Administration’s Capacity for Integrated Project Management (PARCA-GPI),"6,000,000.00",Guinea,15 Jul 2016,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-GN-KA0-006,Guinea - Economic and Financial Reform Support Programme (Phase Three),"10,520,000.00",Guinea,13 Jul 2016,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ER-KF0-003,Eritrea - Public Financial Management and Statistics Capacity Building Project,"4,500,000.00",Eritrea,04 Jul 2016,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-MA-KD0-003,Maroc - Projet d'appui à l'exportation,"630,000.00",Morocco,02 Jul 2016,Implementation,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-TD-KA0-006,Chad - Public Finance Reform Support Programme - Phase II,"31,146,700.00",Chad,27 Jun 2016,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GA-KF0-002,Gabon - Diagnostic du cadre institutionnel pour la promotion des investissements dans les filières porteuses café/cacao et cultures vivrières,"799,274.00",Gabon,03 Jun 2016,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-Z1-K00-059,Multinational - Regional Institutional Support Project on Public Financial Governance,"2,608,000.00",Multinational,13 May 2016,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-081,Multinational - Regional Institutional Support Project on Public Financial Governance,"2,670,000.00",Multinational,13 May 2016,Implementation,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-SL-KB0-001,Sierra Leone - Youth Entrepreneurship Program,"1,708,320.64",Sierra Leone,04 May 2016,Implementation,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-LR-KB0-001,Liberia - Youth entrepreneurship and employment project (YEEP),"1,708,395.91",Liberia,26 Apr 2016,Implementation,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-MG-KA0-009,Madagascar - Economic Management Reform Support Programme,"12,500,000.00",Madagascar,30 Mar 2016,Completion,African Development Fund,Multi-Sector,Sovereign
+G-EG-KZ0-TRN-001,Building Capacity and Institutional Strengthening of Ministry of International Cooperation (MOIC),"3,178,918.37",Egypt,01 Mar 2016,Implementation,MENA Transition Fund,Multi-Sector,Sovereign
+P-Z1-K00-083,Multinational - Operational and financial support to the African Legal Support Facility (ALSF) under pillar III of the Transition Support Facility (TSF) - ADF-13,"16,000,000.00",Multinational,24 Feb 2016,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-TG-KF0-008,Togo - Tax Governance Support Project,"15,000,000.00",Togo,17 Feb 2016,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-TZ-KF0-005,Tanzania - Institutional Support Project for Good Governance - Phase Three (ISPGG III),"12,000,000.00","Tanzania, United Republic of",03 Feb 2016,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-ST-K00-011,Sao Tome and Principe - National Land Use Plan Study Project,"2,000,000.00",Sao Tome and Principe,25 Jan 2016,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-EG-K00-009,Egypt - Economic Governance and Energy Support Program ,"362,489,578.42",Egypt,15 Dec 2015,Completion,African Development Bank,Multi-Sector,Sovereign
+P-MZ-K00-011,Mozambique - Economic Governance and Inclusive Growth Program (EGIGP) – Phase II,"15,000,000.00",Mozambique,15 Dec 2015,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TD-KA0-005,Chad - Public Finance Reform Support Programme,"13,365,000.00",Chad,09 Dec 2015,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CV-KA0-006,Cabo Verde - Economic Growth Support Programme - Phase I,"12,476,813.92",Cape Verde,26 Nov 2015,Completion,African Development Bank,Multi-Sector,Sovereign
+P-MA-K00-012,Maroc - Projet de renforcement des capacités de la Cour des Comptes (PARC-CC),"792,000.00",Morocco,25 Nov 2015,Implementation,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-KM-KA0-002,Comoros - Institutional Capacity Building Project – Phase II,"6,000,000.00",Comoros,19 Nov 2015,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-GH-K00-013,Ghana - Public Financial Management and Private Sector Competitiveness Support Programme - Phase I,"40,000,000.00",Ghana,18 Nov 2015,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ML-KA0-006,Mali - Economic Governance Reform Support Programme – Phase I,"15,000,000.00",Mali,04 Nov 2015,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-NE-KA0-010,Niger - Financial Reforms and Food Security Support Programme - Phase I ,"20,000,000.00",Niger,04 Nov 2015,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SS-KF0-002,South Sudan- Support to Good Governance and Capacity Building in Natural Resources Management,"1,000,000.00",South Sudan,27 Oct 2015,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-SS-KF0-003,South Sudan - Gender equality and women's economic empowerment for inclusive growth,"1,000,000.00",South Sudan,27 Oct 2015,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-KZ0-027,Multinational - Post-Ebola Recovery Social Investment Fund Project (Liberia),"854,905.45",Multinational,21 Oct 2015,Cancelled,Rural Water Supply & Sanitation,Multi-Sector,Sovereign
+,,,,,,,,
+P-Z1-KZ0-031,Multinational - Post-Ebola Recovery Social Investment Fund Project (Sierra Leone),"9,785,650.87",Multinational,21 Oct 2015,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KZ0-032,Multinational - Post-Ebola Recovery Social Investment Fund Project (Guinea),"9,785,650.87",Multinational,21 Oct 2015,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-CI-KF0-001,Côte d’Ivoire - Support to Industrial Competitiveness Enhancement Project ,"10,000,000.00",Cote d'Ivoire,30 Sep 2015,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-CF-KZ0-003,Central African Republic - Emergency Post-Crisis and Economic Recovery Support Programme – Phase 2,"7,360,000.00",Central African Republic,23 Sep 2015,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GM-K00-011,The Gambia - Institutional Support for Economic and Financial Governance Phase III Project,"2,000,000.00",Gambia,23 Sep 2015,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-SC-K00-005,Seychelles - Inclusive Private Sector Development and Competitiveness Programme – Phase II,"7,356,240.67",Seychelles,23 Sep 2015,Completion,African Development Bank,Multi-Sector,Sovereign
+P-Z1-K00-071,Multinational - Statistical Capacity Building Program for Managing for Development Results – Second Annual Work Plan,"10,000,000.00",Multinational,22 Sep 2015,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-MW-KF0-003,Malawi - Public Finance Management Institutional Support Project – Phase II,"1,860,000.00",Malawi,10 Sep 2015,Completion,African Development Fund,Multi-Sector,Sovereign
+G-TN-KZ0-ZZZ-004,Enhancing Governance and Economic Growth,"1,666,594.17",Tunisia,01 Sep 2015,Implementation,MENA Transition Fund,Multi-Sector,Sovereign
+P-Z1-KF0-046,Multinational - Projet d'assistance technique et de renforcement des capacités en genre à Madagascar et aux Comores,"687,510.00",Multinational,21 Aug 2015,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-MA-KA0-003,Maroc - Projet d’appui à la mise en place et à l’opérationnalisation d’une structure de suivi et d’analyse pour une meilleure coordination de l’action publique par les services du Chef du Gouvernement,"799,200.00",Morocco,14 Jul 2015,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-ZW-KF0-006,Zimbabwe – Strengthening Institutions of Transparency and Accountability Project (SITA),"2,000,000.00",Zimbabwe,10 Jul 2015,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-MG-K00-009,Madagascar - Investment Promotion Support Project,"7,000,000.00",Madagascar,09 Jul 2015,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-NA-KA0-001,Namibia - Institutional Strengthening for Public-Private Partnerships (ISPPP) Project,"787,671.00",Namibia,08 Jul 2015,Implementation,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-CG-KZ0-001,Republic of Congo - Investment Climate and Forest Governance Support Project (PACIGOF),"15,511,397.01",Congo,01 Jul 2015,Implementation,African Development Bank,Multi-Sector,Sovereign
+P-GW-K00-005,Guinea-Bissau - Economic and Financial Governance Strengthening Support Project,"5,000,000.00",Guinea-Bissau,01 Jul 2015,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-CD-KB0-001,Democratic Republic of Congo - Private Sector Development and Job Creation Support Project ,"38,000,000.00","Congo, the Democratic Republic of the",03 Jun 2015,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-ET-KF0-004,Ethiopia - Institutional Support Project for Public-Private Partnerships,"1,173,000.00",Ethiopia,26 May 2015,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-MA-KA0-002,Maroc - Projet d’appui à l’élaboration de l’étude stratégique sur la Direction du Trésor et des finances extérieures (DTFE),"797,600.00",Morocco,21 May 2015,Implementation,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-TZ-K00-014,Tanzania - Power Sector Reform and Governance Support Programme (PSRGSP),"50,000,000.00","Tanzania, United Republic of",20 May 2015,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-GW-KA0-008,Guinea-Bissau - Emergency Economic and Financial Reform Support Programme ,"5,000,000.00",Guinea-Bissau,13 May 2015,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-K00-064,Multinational - Appui institutionnel au Secrétariat Général de l’Union du Maghreb Arabe (UMA) - Phase 2,"495,365.00",Multinational,08 May 2015,Implementation,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-EG-KF0-002,Egypt - Strengthening the Institute of National Planning Project,"1,200,000.00",Egypt,07 May 2015,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-EG-KF0-001,Egypt - Support to Egyptian Agency of Partnership for Development for Enhancing Egypt-COMESA Trade and Investment Project,"1,200,000.00",Egypt,29 Apr 2015,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-DZ-KF0-002,Algeria - Small and Medium Enterprise Development Support Project (PAD - PME),"792,165.00",Algeria,02 Mar 2015,Implementation,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-Z1-KF0-044,Multinational - Crisis response: Technical Assistance to African Union to support countries most affected with ebola,"1,587,510.00",Multinational,26 Jan 2015,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-BI-KA0-005,Burundi - Economic and Governance Reform Support Programme - Phase I,"7,000,000.00",Burundi,18 Dec 2014,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-ML-KA0-003,Mali - Emergency Governance and Economic Recovery Support Programme ,"14,603,000.00",Mali,17 Dec 2014,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GQ-K00-007,Guinée Equatoriale - Projet d'appui Technique et de promotion du secteur privé,"798,000.00",Equatorial Guinea,12 Dec 2014,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-MG-KF0-002,Madagascar - Assistance technique au Ministère de l’Economie et de la Planification (MEP) pour le Costing du Plan National du Développement (PND),"34,147.00",Madagascar,10 Dec 2014,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-CD-KF0-007,Democratic Republic of Congo - General Population Census and Social Databases Consolidation Support Project ,"15,000,000.00","Congo, the Democratic Republic of the",26 Nov 2014,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-K00-060,Multinational - Multinational Statistical Capacity Building Program for Managing for Development Results,"10,000,000.00",Multinational,26 Nov 2014,Completion,African Development Fund,Multi-Sector,Sovereign
+P-EG-KF0-005,Egypt - Economic Summit: Assistance to Middle Income Countries (MIC),"390,000.00",Egypt,19 Nov 2014,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-Z1-K00-062,"Multinational - Project to promote intra-african investment, institutional and Small and medium-sized enterprises (SME) capacity building","263,369.56",Multinational,18 Nov 2014,Completion,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-MR-K00-014,Mauritania  - Governance Support Project for Inclusive Growth Promotion (PAGOCI),"2,000,000.00",Mauritania,17 Nov 2014,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-SC-K00-007,"Seychelles - Technical Assistance for development of public/private partnership legal, regulatory and operational framework","372,739.00",Seychelles,14 Nov 2014,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-KM-K00-006,Comoros - Energy Sector Reform Support Programme (PARSE),"4,000,000.00",Comoros,13 Nov 2014,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-MG-K00-010,Madagascar - Emergency Economic Recovery Programme (PURE) ,"25,000,000.00",Madagascar,05 Nov 2014,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-CV-KA0-005,Cabo Verde - Public Corporate Governance and Investment Promotion Support Programme – Second Year (PAGEPPI II),"12,209,813.43",Cape Verde,15 Oct 2014,Completion,African Development Bank,Multi-Sector,Sovereign
+P-CV-KF0-002,Cabo Verde - Support for promoting economic efficiency and investment through privatization and public private partnership Project,"795,000.00",Cape Verde,15 Oct 2014,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-GA-K00-006,"Gabon - Projet d’appui à la chambre de commerce, d’agriculture, d’industrie, des mines et de l’artisanat du Gabon (CCAIMAG)","785,168.00",Gabon,14 Oct 2014,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-TG-KF0-007,Togo - Resource Mobilization and Institutional Capacity Building Support Project (PAMOCI),"5,000,000.00",Togo,09 Oct 2014,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-KF0-038,"Multinational - Crisis Response – Technical Assistance to Support Countries (Guinea, Sierra Leone and Liberia) Most Affected with Ebola Epidemic Project","1,500,000.00",Multinational,01 Oct 2014,Cancelled,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-KF0-039,"Multinational - Crisis Response – Technical Assistance to Support Countries (Guinea, Sierra Leone and Liberia) Most Affected with Ebola Epidemic Project","1,500,000.00",Multinational,01 Oct 2014,Cancelled,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-KF0-040,"Multinational - Crisis Response – Technical Assistance to Support Countries (Guinea, Sierra Leone and Liberia) Most Affected with Ebola Epidemic Project","1,500,000.00",Multinational,01 Oct 2014,Cancelled,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-KF0-041,"Multinational - Crisis Response – Technical Assistance to Support Countries (Guinea, Sierra Leone and Liberia) Most Affected with Ebola Epidemic Project","300,000.00",Multinational,01 Oct 2014,Cancelled,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-KZ0-021,Multinational - Ebola Sector Budget Support – Fight Back Programme (EFBP)  ,"40,200,000.00",Multinational,01 Oct 2014,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KZ0-022,Multinational - Ebola Sector Budget Support – Fight Back Programme (EFBP)  ,"6,000,000.00",Multinational,01 Oct 2014,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KZ0-023,Multinational - Ebola Sector Budget Support – Fight Back Programme (EFBP)  ,"21,000,000.00",Multinational,01 Oct 2014,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KZ0-024,Multinational - Ebola Sector Budget Support – Fight Back Programme (EFBP)  ,"33,000,000.00",Multinational,01 Oct 2014,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MZ-K00-010,Mozambique - Economic Governance and Inclusive Growth Program (EGIGP) – Phase I,"19,335,000.00",Mozambique,19 Sep 2014,Completion,African Development Fund,Multi-Sector,Sovereign
+P-AO-K00-006,Angola - Institutional Capacity Building for Private Sector Development Project,"17,605,055.11",Angola,17 Sep 2014,Implementation,African Development Bank,Multi-Sector,Sovereign
+P-BF-KA0-009,Burkina Faso - Private Sector Promotion Support Programme (PAPSP) ,"20,000,000.00",Burkina Faso,17 Sep 2014,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BF-KF0-009,Burkina Faso - Economic Transformation and Job Creation Support Project (PATECE),"10,000,000.00",Burkina Faso,17 Sep 2014,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KF0-043,Multinational - Technical Assistance and Capacity Building Project to Regional Centre on Small Arms (RECSA),"1,000,000.00",Multinational,12 Sep 2014,Completion,Fragile States Facility,Multi-Sector,Sovereign
+G-Z2-KZ0-ZZZ-075,IDEV Comprehensive Evaluation,"407,673.86",Multinational,01 Jul 2014,Implementation,Global Affairs Canada ,Multi-Sector,Sovereign
+G-Z2-KZ0-ZZZ-076,IDEV Evaluation Week,"21,849.19",Multinational,01 Jul 2014,Implementation,Global Affairs Canada ,Multi-Sector,Sovereign
+P-CF-KZ0-002,Central African Republic - Emergency Post-Crisis and Economic Recovery Support Programme (PUASCRE),"15,000,000.00",Central African Republic,25 Jun 2014,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CV-KF0-004,Cap-Vert - Enquête sur les dépenses et les revenus des ménages,"797,730.00",Cape Verde,25 Jun 2014,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-CV-KF0-005,Cape Verde - Support project for the agricultural census,"779,960.00",Cape Verde,25 Jun 2014,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-GN-KA0-005,Guinea - Economic and Financial Reform Support Programme - Phase II (PAREF II) ,"6,390,000.00",Guinea,23 Jun 2014,Completion,African Development Fund,Multi-Sector,Sovereign
+G-EG-KZ0-ZZZ-001,Strengthening the Rule of Law : Enhancing Effective and Transparent Delivery of Justice and Rule-Making,"1,744,236.62",Egypt,11 Jun 2014,Implementation,MENA Transition Fund,Multi-Sector,Sovereign
+G-EG-KZ0-ZZZ-002,Support to parliament Building Capacity and Mainstreaming Inclusive Growth and Decentralization,"1,986,370.89",Egypt,11 Jun 2014,Implementation,MENA Transition Fund,Multi-Sector,Sovereign
+P-SC-KB0-001,"Seychelles - Micro, Small and Medium Enterprises (MSME) development project","726,902.67",Seychelles,03 Jun 2014,Completion,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-GA-KF0-001,Gabon - Projet d'appui à la mise en place d'un dispositif d'incubateurs d'entreprises au Gabon,"799,107.00",Gabon,14 May 2014,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-SL-K00-007,Sierra Leone - Public Financial Management Improvement and Consolidation Project,"2,300,000.00",Sierra Leone,08 May 2014,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SL-KA0-013,Sierra Leone - Inclusive Economic Management Program – Phase I,"4,000,000.00",Sierra Leone,05 May 2014,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-GH-KB0-003,Ghana MSMe Business Linkage Program,"708,456.13",Ghana,27 Apr 2014,Implementation,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-SO-KF0-005,Somalia - Technical assistance expert in aid coordination project,"90,577.00",Somalia,17 Apr 2014,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-NG-KF0-002,"Nigeria - Capacity Development Program for members of the NASS committees on Finance, appropriation members","144,755.00",Nigeria,28 Mar 2014,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-TD-KF0-009,Chad - Technical Assistance and Capacity-Building Project to Prepare Chad for the Completion Point of the Heavily Indebted Poor Countries Initiative (PATRC/IPPTE),"1,400,000.00",Chad,05 Mar 2014,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-KF0-036,Multinational - Third Strategic Medium Term Plan (SMTP III),"3,000,000.00",Multinational,17 Feb 2014,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-077,Multinational - Seed grant - private sector credit enhancement facility ADF 13,"165,000,000.00",Multinational,31 Jan 2014,Approved,African Development Fund,Multi-Sector,Sovereign
+G-TN-KZ0-ZZZ-002,Souk At-Tanmia II,"1,298,210.96",Tunisia,01 Jan 2014,Implementation,Multi donor Trust Fund for Countries in Transition,Multi-Sector,Sovereign
+P-TN-K00-007,Tunisie - Projet d’appui à l’opérationnalisation du plan d’actions de la réforme des marchés publics,"530,100.00",Tunisia,27 Dec 2013,Implementation,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-SL-KF0-008,Sierra Leone - Technical Assistance and Capacity Building support to support minerals and extractive revenues governance,"1,200,000.00",Sierra Leone,20 Dec 2013,Cancelled,Fragile States Facility,Multi-Sector,Sovereign
+P-SL-KF0-009,Sierra Leone - Technical Assistance and Capacity Building support to Ministry of Energy & MCC,"449,000.00",Sierra Leone,18 Dec 2013,Cancelled,Fragile States Facility,Multi-Sector,Sovereign
+P-SO-KF0-001,Somalia - Economic and Financial Governance Institutional Support Project,"2,500,000.00",Somalia,18 Dec 2013,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CM-KA0-008,Cameroon - Support Project for Modernization of Land Registration and Improvement of the Business Climate,"5,000,000.00",Cameroon,17 Dec 2013,Implementation,Nigerian Trust Fund,Multi-Sector,Sovereign
+P-SD-KA0-006,Sudan - Public Financial and Macroeconomic Management Capacity Building Project,"2,778,115.98",Sudan,17 Dec 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+,,,,,,,,
+P-TZ-K00-013,Tanzania - Governance and Economic Competitiveness Support Programme – Supplementary Financing,"38,400,429.00","Tanzania, United Republic of",17 Dec 2013,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KF0-021,Multinational - Programme for Infrastructure Development in Africa Capacity Building Project (PIDA CAP),"5,600,000.00",Multinational,12 Dec 2013,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-ZW-KF0-005,Zimbabwe - Governance and Institutional Strengthening Project,"5,200,000.00",Zimbabwe,12 Dec 2013,Completion,African Development Fund,Multi-Sector,Sovereign
+G-LY-KA0-ZZZ-001,Libya: Leading the Way Programme: Developing leadership capacity to support Libya’s transition,"2,363,346.38",Libyan Arab Jamahiriya,04 Dec 2013,Implementation,MENA Transition Fund,Multi-Sector,Sovereign
+G-TN-KA0-ZZZ-001,Tunisia: Enhancing domestic resource mobilization through effective tax system design and improved transparency and international coopération,"325,017.87",Tunisia,04 Dec 2013,Cancelled,MENA Transition Fund,Multi-Sector,Sovereign
+P-SC-K00-004,Seychelles - Inclusive Private Sector Development and Competitiveness Programme,"14,169,122.65",Seychelles,03 Dec 2013,Completion,African Development Bank,Multi-Sector,Sovereign
+P-TD-KF0-010,Chad - Business Climate Improvement and Economic Diversification Support Project,"5,890,000.00",Chad,03 Dec 2013,Completion,African Development Fund,Multi-Sector,Sovereign
+P-DJ-KF0-009,Djibouti - Projet d’assistance technique pour la mise en place du dispositif d’opérationnalisation de l’assurance maladie universelle,"124,582.00",Djibouti,26 Nov 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-KM-KF0-010,Projet de renforcement des capacités pour appuyer le secteur privé (PRCSP),"625,000.00",Comoros,24 Nov 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-KM-KF0-007,Comores - Projet d’appui à la stratégie de croissance accélérée et de développement durable (SCADD),"241,000.00",Comoros,21 Nov 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-K00-078,Multinational - Transition support Fund ADF-13 allocation,"662,000,000.00",Multinational,13 Nov 2013,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-LR-KF0-008,Liberia - Technical assistance and capacity building to Liberia institutes of statistics and geo-information (LISGIS),"500,000.00",Liberia,11 Nov 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-CD-K00-009,Democratic Republic of Congo - Statistics and Public Finance Institutional Support Project (PAI-STATFIN),"10,960,000.00","Congo, the Democratic Republic of the",23 Oct 2013,Completion,African Development Fund,Multi-Sector,Sovereign
+P-LS-K00-003,Lesotho - Institutional Support for the Enhancement of Public Financial Management Project,"2,600,000.00",Lesotho,14 Oct 2013,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-CV-K00-011,Cape Verde - Public Corporate Governance and Investment Promotion Support Programme (PAGEPPI),"12,430,183.80",Cape Verde,09 Oct 2013,Completion,African Development Bank,Multi-Sector,Sovereign
+P-Z1-KZ0-018,Multinational - COMESA-EAC-SADC Tripartite Capacity Building Programme,"5,000,000.00",Multinational,09 Oct 2013,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MW-KF0-002,Malawi - Public Finance Management Institutional Support Project,"2,980,000.00",Malawi,08 Oct 2013,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MR-KF0-001,Mauritania - Public Investment Management Support Project,"740,000.00",Mauritania,07 Oct 2013,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KF0-023,Technical Assistance and Capacity Building to Mano River Union,"942,640.00",Multinational,01 Oct 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-MG-K00-008,Madagascar - Institutional Governance Support Project (PAGI),"4,500,000.00",Madagascar,17 Sep 2013,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-SO-KF0-004,Somalia - Somaliland Statistical Capacity Building,"338,127.13",Somalia,13 Sep 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-CV-KF0-003,Cape Verde - Efficient Tax and Revenue Administration Project for Improved Business Life-Cycle Services,"421,196.03",Cape Verde,16 Aug 2013,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-SN-KB0-001,Volo Trust Information and Credit Bureau Pilot,"196,348.73",Senegal,05 Aug 2013,Completion,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-ZW-KF0-004,Zimbabwe - TA for HIPC Eligibility Assessment,"68,242.00",Zimbabwe,30 Jul 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-CG-KF0-004,Projet de Renforcement des Capacités en Finances Publiques et Planification Stratégique ,"1,246,450.00",Congo,24 Jul 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-GM-K00-010,The Gambia - Economic and Financial Governance Operation (EFIGO) – Phase II,"610,000.00",Gambia,24 Jul 2013,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KB0-007,"Multinational - Africa SME Program - Inclusive Growth and Job Creation
+FAPA - Technical Assistance Request","2,826,407.92",Multinational,22 Jul 2013,Implementation,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-CG-KF0-005,Congo - Technical Assistance Project to Develop National Skills for Support to Growth Sectors,"1,000,000.00",Congo,19 Jul 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-CD-K00-008,Projet de Renforcement en Capacité Institutionnelle en Réforme des Finances Publiques,"1,539,575.88","Congo, the Democratic Republic of the",18 Jul 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-SN-KE0-001,Senegal - Community Roads Project in Support of the National Local Development Programme (PPC/PNLD),"14,765,432.24",Senegal,17 Jul 2013,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KF0-035,Technical assistance and Capacity Building to International Conference on the Great Lakes Region (ICGLR),"1,485,048.00",Multinational,15 Jul 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-GN-K00-008,Guinea - Economic Planning and Mining Governance Support Project (PAPEGM),"11,380,000.00",Guinea,10 Jul 2013,Completion,African Development Fund,Multi-Sector,Sovereign
+P-LR-KF0-007,Liberia - Technical Assistance and Capacity Building Support to the Liberia Extractive Industries Transparency Initiative (TCB-LEITI) Phase II 2013-2015,"270,000.00",Liberia,08 Jul 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-SO-KF0-002,Somalia - Technical Assistance in the Somalia Aid and Debt Managment Office (SADMU),"146,878.00",Somalia,08 Jul 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-SD-K00-002,Sudan - Technical Assistance and Capacity Building to the Preparation of a Full Poverty Reduction Strategy Paper (TCB-PRSP),"1,973,285.00",Sudan,03 Jul 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-ML-K00-021,Mali - Economic Governance Support Project (PAGE),"9,970,000.00",Mali,01 Jul 2013,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TD-KF0-020,Tchad - Projet d’appui à la mise en œuvre du plan national de développement et à l’élaboration de la vision 2030,"500,000.00",Chad,27 Jun 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+G-LY-K00-LTE-001,LIBYA: Strengthening the dialogue with the Libyan authorities,"152,121.06",Libyan Arab Jamahiriya,24 Jun 2013,Completion,Multi donor Trust Fund for Countries in Transition,Multi-Sector,Sovereign
+P-SC-K00-006,Seychelles - Emergency Assistance to Address Damages and Losses Caused by the January 2013 Cyclone Felleng,"649,350.65",Seychelles,24 Jun 2013,Completion,Special Relief Funds,Multi-Sector,Sovereign
+P-SN-K00-008,Inclusive Growth and Economic Competitiveness Support Programme (PACICE),"25,540,000.00",Senegal,19 Jun 2013,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-ST-KF0-002,Co-financing with ALSF of negociation of Oil Exploration Contracts,"22,126.00",Sao Tome and Principe,17 Jun 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-TN-KE0-002,Operationalising Ppps In Tunisia (Ppp Advisory),"789,000.00",Tunisia,14 Jun 2013,Implementation,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-ML-KA0-001,Mali - Emergency Economic Recovery Support Programme (EERSP) ,"40,000,000.00",Mali,08 May 2013,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MW-KA0-003,Malawi - Restoration of Fiscal Stability and Social Protection (RFSSP) Programme  ,"4,000,000.00",Malawi,26 Apr 2013,Completion,African Development Fund,Multi-Sector,Sovereign
+G-TN-K00-SUP-001,Appui à l’amélioration de la mise en œuvre des projets de la BAD en Tunisie ,"248,918.54",Tunisia,04 Apr 2013,Completion,Multi donor Trust Fund for Countries in Transition,Multi-Sector,Sovereign
+G-Z1-KA0-ZZZ-007,"Provision of a grant for funding eligible activities of the 2013 Public Financial Management exchange event in Abu Dhabi, May 2013","81,399.90",Multinational,04 Apr 2013,Completion,Multi donor Trust Fund for Countries in Transition,Multi-Sector,Sovereign
+P-SL-KF0-006,Tech Assistance for Mcc Ca Development,"137,467.00",Sierra Leone,31 Mar 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-LR-KF0-006,Liberia - Technical Assistance to The Ministry of Public Works,"117,000.00",Liberia,25 Mar 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-CV-KB0-002," Capacity Building Grant for Micro, Small and Medium-Sizes. Enterprises Development through Business Incubators","773,659.00",Cape Verde,08 Mar 2013,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-NG-K00-005,Nigeria - Transport Sector and Economic Governance Reform Program,"212,536,839.72",Nigeria,27 Feb 2013,Completion,African Development Bank,Multi-Sector,Sovereign
+P-TG-KF0-006,Togo - Projet complémentaire au programme d'action ciblée multi-sectorielle et de renforcement des capacités institutionnelles,"619,000.00",Togo,27 Feb 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+G-TN-K00-TRN-001,Leading the Way Program: Pilot project for developing leadership capacity to support Tunisia’s transition (Phase I.1 ),"1,025.81",Tunisia,20 Feb 2013,Cancelled,MENA Transition Fund,Multi-Sector,Sovereign
+G-TN-K00-ZZZ-002,Operationalizing Public Private Partnership in Tunisia,"1,014,934.03",Tunisia,20 Feb 2013,Implementation,MENA Transition Fund,Multi-Sector,Sovereign
+P-LR-KF0-002,Liberia - Institutional Development and Capacity Building Support to the Governance Commission (IDCBSGC),"438,338.00",Liberia,18 Jan 2013,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-ST-K00-009,Sao Tome and Principe - Economic and Financial Management Support Project (PAGEF),"7,000,000.00",Sao Tome and Principe,14 Jan 2013,Completion,African Development Fund,Multi-Sector,Sovereign
+P-KM-K00-003,Comoros - Energy Sector Reform and Financial Governance Support Programme (PARSEGF),"2,000,000.00",Comoros,19 Dec 2012,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-K00-034,Multinational - ECCAS Institutional Capacity Building Support Project (PARCI-ECCAS),"7,000,000.00",Multinational,19 Dec 2012,Completion,African Development Fund,Multi-Sector,Sovereign
+G-MA-KA0-ZZZ-001,Assistance technique. Mise en place d’un système intègre d’évaluation de la qualité de la formation ,"114,537.44",Morocco,17 Dec 2012,Completion,Multi donor Trust Fund for Countries in Transition,Multi-Sector,Sovereign
+P-ZW-KF0-002,Zimbabwe - Capacity Building for Public Finance and Economic Management Project (CBPFEM),"16,120,000.00",Zimbabwe,05 Dec 2012,Implementation,Fragile States Facility,Multi-Sector,Sovereign
+P-MA-K00-010,Morocco - Economic and Financial Governance Revitalization Support Programme (PARGEF) – Phase I,"98,714,267.07",Morocco,28 Nov 2012,Completion,African Development Bank,Multi-Sector,Sovereign
+,,,,,,,,
+P-GM-K00-008,The Gambia - Economic and Financial Governance Operation (EFIGO) – Phase I ,"1,880,000.00",Gambia,14 Nov 2012,Completion,African Development Fund,Multi-Sector,Sovereign
+P-NE-KA0-008,Niger - Programme for Inclusive Growth and Strengthening of Food Security (PACIRSA),"21,560,000.00",Niger,14 Nov 2012,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SD-KA0-003,Grant for The Enhancement of Public-Sector Capacity for Debt Policy On Arrear Clearance &Debt Relief,"50,000.00",Sudan,13 Nov 2012,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-BI-KF0-002,Burundi - Projet d’appui au renforcement des capacités institutionnelles dans les domaines de la promotion de l’emploi et de l’entreprenariat des jeunes (PARCEJ),"1,347,796.00",Burundi,12 Nov 2012,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-BI-KF0-003,Burundi - Projet de renforcement des capacités statistiques pour le suivi et l'évaluation de la pauvreté,"1,921,000.00",Burundi,12 Nov 2012,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-DJ-KF0-006,Djibouti - Projet d’appui au renforcement des capacités institutionnelles (PARCI),"1,296,500.00",Djibouti,12 Nov 2012,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-DJ-KF0-007,Djibouti - Projet d’appui aux structures d’élaboration des données socioéconomiques (PASED),"1,063,500.00",Djibouti,12 Nov 2012,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-BI-K00-010,Projet de Renforcement des capacités  dans Le Domaine de la Gestion des Finances Publiques (PRCGF),"518,618.78",Burundi,09 Nov 2012,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-BI-K00-011,Projet d'appui au Développement du Secteur Privé (PADSP),"884,730.00",Burundi,09 Nov 2012,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-BI-KF0-004,"Burundi - Projet d’appui au renforcement des capacités institutionnelles dans le domaine de la collecte des données socio-économiques de la main d’œuvre et de la protection sociale
+(PRCDSE)","400,920.00",Burundi,09 Nov 2012,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-CF-KF0-002,Central African Republic - Statistics and Poverty Reduction Strategy Paper 2011-2015 (PRSP 2) Implementation Support,"1,348,000.00",Central African Republic,01 Nov 2012,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-TD-KF0-007,Projet d'appui au Renforcement des capacités  dans le Domaine des Industries Extractives et Pétrolières,"1,350,031.00",Chad,01 Nov 2012,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-TD-KF0-008,Projet d'appui au Renforcement des capacités  dans le Domaine des Finances Publiques,"1,445,001.00",Chad,01 Nov 2012,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-GH-KF0-001,Ghana - Institutional Support Project to oversight and Private Sector Development Institutions (GISP) ,"9,590,000.00",Ghana,10 Sep 2012,Completion,African Development Fund,Multi-Sector,Sovereign
+P-LR-K00-013,Liberia - Institutional Support for the Integrated Public Financial Management Reform Project (IPFMRP),"3,000,000.00",Liberia,10 Sep 2012,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-SN-KA0-008,Senegal - Private Sector Promotion Support Project (PAPSP),"4,040,000.00",Senegal,10 Sep 2012,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BJ-KA0-014,Benin - Economic and Financial Reform Support Programme (PAREF),"30,000,000.00",Benin,06 Sep 2012,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CF-KA0-003,Central African Republic - Third Economic Reform Support Programme (ERSP III),"16,000,000.00",Central African Republic,18 Jul 2012,Cancelled,Fragile States Facility,Multi-Sector,Sovereign
+P-ET-K00-011,Ethiopia - Promoting Basic Services Programme (PBS III) ,"166,000,000.00",Ethiopia,18 Jul 2012,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BI-K00-009,"Burundi - Fifth Economic Reform Support Programme (PARE V)
+","12,000,000.00",Burundi,11 Jul 2012,Completion,Fragile States Facility,Multi-Sector,Sovereign
+,,,,,,,,
+P-MW-KA0-002,Malawi - Restoration of Fiscal Stability and Social Protection (RFSSP) Programme,"26,000,000.00",Malawi,11 Jul 2012,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MA-K00-011,Etude sur la croissance et l’emploi au Maroc,"587,200.00",Morocco,27 Jun 2012,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-CD-KF0-001,Democratic Republic of Congo - Public Finance Modernisation Support Project (PAM-FP),"10,000,000.00","Congo, the Democratic Republic of the",25 Apr 2012,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SD-KA0-002,Capacity Enhancement for Debt Management and Resources Mobilization Project (CEDMRMP),"1,050,101.00",Sudan,15 Mar 2012,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-K00-045,Multinational - Autorité de développement intégré de la région du Liptako-Gourma (ALG) : Projet d’appui Institutionnel à l’ALG,"70,400.50",Multinational,21 Feb 2012,Completion,NEPAD Infrastructure Project Preparation Facility,Multi-Sector,Sovereign
+P-TG-KE0-001,Togo - Projet d'Assistance Technique et Renforcement des capacités  du Ministère  des Travaux Publics,"605,522.00",Togo,08 Feb 2012,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-TG-KZ0-001,Elaboration du Doc Complet de la Dsrp II,"702,520.00",Togo,07 Feb 2012,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-SZ-K00-003,Eswatini - Statistical Capacity Building Programme - Phase II (Scb II),"490,600.00",Eswatini,01 Feb 2012,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-NE-K00-011,Niger - Domestic Resource Mobilization and Economic and Financial Governance Improvement Support Project (PAMOGEF),"10,000,000.00",Niger,26 Jan 2012,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TG-KF0-005,Togo - Institutional Audits for six Ministries,"466,037.99",Togo,24 Jan 2012,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-K00-044,Multinational - Program to Build Statistical Capacity for MDGs Monitoring and Results Measurement,"20,000,000.00",Multinational,18 Jan 2012,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KF0-020,Projet de renforcement des capacités opérationnelles du secrétariat général et de la mise en œuvre de la stratégie sectorielle du genre ,"565,566.76",Multinational,29 Dec 2011,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-ZA-KD0-001,Development of SA OSBP Strategy,"178,000.00",South Africa,22 Dec 2011,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-ST-KF0-001,Recensement General de la  Population et de l'habitat en 2012,"477,874.00",Sao Tome and Principe,20 Dec 2011,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-TZ-K00-011,Tanzania - Governance and Economic Competitiveness Support Program (GECSP),"100,000,000.00","Tanzania, United Republic of",16 Dec 2011,Completion,African Development Fund,Multi-Sector,Sovereign
+G-KE-K00-STY-001,Regional Integration Strategy for Kenya Phase II,"74,606.98",Kenya,15 Dec 2011,Implementation,Global Affairs Canada ,Multi-Sector,Sovereign
+P-GW-KF0-008,Renforcement des capacités  des institutions de l'administration,"655,563.00",Guinea-Bissau,09 Dec 2011,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-CV-K00-010,Cape Verde - Public Finance Management and Private Sector Recovery Support Programme (PAGFP-RSP),"21,037,219.05",Cape Verde,07 Dec 2011,Completion,African Development Bank,Multi-Sector,Sovereign
+P-TD-KF0-005,Projet: Assistance Technique et Renforcement des capacités  dans le Domaine des Statistiques,"1,000,000.00",Chad,22 Nov 2011,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-SZ-KA0-003,Ta for Public Finc Mgmt Reforms,"478,452.00",Eswatini,03 Nov 2011,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-TG-K00-009,Togo - Reform and Governance Support Programme Phase II (PARG-2) ,"20,000,000.00",Togo,02 Nov 2011,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-ML-K00-020,Mali - Second Growth and Poverty Reduction Strategy Support Programme (GPRSSP II),"15,000,000.00",Mali,26 Oct 2011,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GM-KF0-001,Gambia - Institutional Support for Economic and Financial Governance II Project (ISEFG II),"2,000,000.00",Gambia,30 Sep 2011,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SL-K00-006,Sierra Leone - Public Financial Management and Business Enabling Support Project (PFMBESP),"4,000,000.00",Sierra Leone,30 Sep 2011,Completion,Fragile States Facility,Multi-Sector,Sovereign
+G-Z2-KZ0-ZZZ-022,Third Regional Meeting on Development Effectiveness,"16,818.57",Multinational,23 Sep 2011,Completion,Global Affairs Canada ,Multi-Sector,Sovereign
+P-BF-K00-009,Burkina Faso - Accelerated Growth Strategy and Business Environment Support Programme (PASCACAF),"50,000,000.00",Burkina Faso,20 Sep 2011,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MZ-K00-009,Mozambique - Growth and Public Sector Efficiency (GPSE) Program,"60,000,000.00",Mozambique,20 Sep 2011,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SL-KA0-012,Sierra Leone - Economic Governance Reform Program (EGRP II),"10,000,000.00",Sierra Leone,14 Sep 2011,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-ZW-KF0-001,Institutional Capacity Development to Zimbabwe Aid and Debt Management Office (ZADMO),"192,811.00",Zimbabwe,09 Aug 2011,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-K00-041,"Multinational - Training and consultancy on Environmental and Social (E&S) management in Financial
+Intermediaries (FI) and Microfinance Institutions (MFI) in Africa","417,366.98",Multinational,08 Aug 2011,Completion,Fund for African Private Sector Assistance,Multi-Sector,Non Sovereign
+P-RW-K00-011,Rwanda - Poverty Reduction Strategy Support Programme - Phase IV (PRSSP - IV),"23,190,000.00",Rwanda,15 Jul 2011,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GH-K00-012,Ghana - Poverty Reduction and Business Environment Support Programme (PRBESP),"70,000,000.00",Ghana,13 Jul 2011,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CD-KF0-005,République Démocratique du Congo - Renforcement des capacités institutionnelles du Ministère  de l'Enseignement Supérieur et Universitaire,"270,473.17","Congo, the Democratic Republic of the",11 Jul 2011,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-BW-K00-002,Botswana - Statistical Capacity Building (SCB II) in Regional Member Countries for MDG Monitoring & Results Measurement,"490,600.00",Botswana,07 Jul 2011,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-NA-K00-001,Namibia - Statistical Capacity Building (SCB II) in Regional Member Countries for Mdg Monitoring & Results Measurement,"490,600.00",Namibia,07 Jul 2011,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-ZA-K00-002,South Africa – Statistical Capacity Building (SCB II) in Regional Member Countries for MDG Monitoring and Results Measurement,"490,600.00",South Africa,07 Jul 2011,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-SN-K00-006,Senegal - Economic Reform Support Programme (PARE),"27,000,000.00",Senegal,06 Jul 2011,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GN-KF0-003,Supporting The National Strategy In The Development of Statistics (Nsds),"1,136,000.00",Guinea,30 Jun 2011,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-GN-KF0-004,"Capacity Building Support to Prsp III Process, Promotion of Good Governance & Improvement of Aid Mgt","1,337,000.00",Guinea,27 Jun 2011,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-ZW-K00-002,Zimbabwe Multi-Donor Trust Fund-Support to Goz for The Services of a Procurement Agent,"1,000,000.00",Zimbabwe,24 Jun 2011,Completion,Fragile States Facility,Multi-Sector,Sovereign
+,,,,,,,,
+P-LR-K00-012,Liberia - Economic Governance and Competitiveness Support Program,"30,000,000.00",Liberia,21 Jun 2011,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-MU-K00-006,Mauritius - Statistical Capacity Building (SCB II) in regional member countries for MDG monitoring & results measurement,"490,600.00",Mauritius,03 Jun 2011,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+G-Z2-KZ0-STY-004,Evaluation of Bank Assistance to Regional Integration,"66,818.56",Multinational,31 May 2011,Completion,Global Affairs Canada ,Multi-Sector,Sovereign
+P-BI-K00-008,Burundi - Fourth Economic Reform Support Programme (PARE IV),"7,000,000.00",Burundi,26 May 2011,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-EG-K00-007,Egypt - Statistical Capacity Building Program Phase II (SCB-II),"490,600.00",Egypt,20 May 2011,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-GN-KF0-002,Guinea - Economic and Financial Reform Support Program - PAREF,"20,000,000.00",Guinea,18 May 2011,Completion,African Development Fund,Multi-Sector,Sovereign
+P-LR-KA0-003,Liberia - Emergency Assistance for the Humanitarian Relief at the Liberia-Cote d’Ivoire Border,"410,669.59",Liberia,25 Apr 2011,Completion,Special Relief Funds,Multi-Sector,Sovereign
+P-CD-KF0-004,DRC - Stratégie nationale de développement de la statistique,"259,028.00","Congo, the Democratic Republic of the",19 Apr 2011,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-SC-K00-002,Seychelles - Statistical Capacity Building Program Phase II (SCB-II),"490,600.00",Seychelles,13 Apr 2011,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-TN-K00-006,Tunisie - Appui institutionnel au profit de l’Institut National de la Statistique,"490,600.00",Tunisia,30 Mar 2011,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-CF-KF0-001,Central African Republic - Project to Build Economic and Financial Management Capacity (PARCGEF),"4,500,000.00",Central African Republic,31 Jan 2011,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GN-K00-007,Guinea - Economic and Financial Management Capacity Building Support Project (PARCGEF),"7,544,000.00",Guinea,31 Jan 2011,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CD-KZ0-004,Democratic Republic of Congo - Project to Mobilize and Revitalize Public Administration Human Resources (HR-MRP),"20,000,000.00","Congo, the Democratic Republic of the",21 Jan 2011,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-036,Ttfa- Transit Transport Facilitation Age,"360,651.06",Multinational,22 Dec 2010,Completion,NEPAD Infrastructure Project Preparation Facility,Multi-Sector,Sovereign
+P-MU-KA0-002,MIC Grant Supporting Debt Managment,"296,013.00",Mauritius,09 Dec 2010,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-NE-KA0-006,Niger - Accelerated Development and Poverty Reduction Support Strategy (PASDRP-I),"28,000,000.00",Niger,06 Dec 2010,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BJ-KA0-011,Benin - Public Finance Management and Business Climate Improvement Support Project,"9,360,000.00",Benin,24 Nov 2010,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ET-K00-010,Ethiopia - Protection of Basic Services (PBS II) Program,"72,600,000.00",Ethiopia,19 Nov 2010,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CM-KF0-003,Cameroon - Support Project for Modernization of the Land Registration System and Business Climate (PAMOCCA),"7,000,000.00",Cameroon,15 Nov 2010,Implementation,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-046,Multinational - Fragile states fund allocation ADF-12,"764,000,000.00",Multinational,09 Nov 2010,Implementation,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-TG-KF0-003,Togo - Renforcement des capacités en planification stratégique et suivi-évaluation de la stratégie de réduction de la pauvreté,"470,661.69",Togo,05 Nov 2010,Completion,Fragile States Facility,Multi-Sector,Sovereign
+G-Z1-KE0-ZZZ-007,Gender and Infrastructure Workshop,"47,952.70",Multinational,23 Oct 2010,Completion,Global Affairs Canada ,Multi-Sector,Sovereign
+P-BW-KA0-003,Botswana - Public Enterprise Evaluation and Privatization Agency (PEEPA),"600,000.00",Botswana,14 Oct 2010,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-CG-KF0-001,Congo - Institutional Support Project to Improve the Business Climate and Diversify the Congolese Economy (PACADEC),"3,440,000.00",Congo,14 Oct 2010,Completion,African Development Fund,Multi-Sector,Sovereign
+P-KM-KF0-003,Comoros - Institutional Capacity Building Project (ICBP),"595,000.00",Comoros,11 Oct 2010,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CV-K00-009,Cape Verde - Additional Budget Support Loan for the Poverty Reduction Strategy Support Program (PRSSP-II),"6,888,204.90",Cape Verde,06 Oct 2010,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TG-K00-008,Togo - Project to Build Capacity in Economic and Financial Governance (PARCI-2),"9,166,961.69",Togo,05 Oct 2010,Completion,African Development Fund,Multi-Sector,Sovereign
+G-Z2-KZ0-ZZZ-009,African Economic Conference 2010,"40,140.44",Multinational,27 Sep 2010,Completion,Global Affairs Canada ,Multi-Sector,Sovereign
+P-TN-K00-004,"Tunisie - Etude de renforcement de l’intégration
+commerciale avec les pays du Golfe de Guinée , l'Afrique centrale et des grands lacs","323,377.00",Tunisia,24 Sep 2010,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-BW-KA0-004,Botswana -  Grant from Middle Income Country Technical Assistance Fund to assist the Non-Bank Financial Institutions Regulatory Authority (NBFIRA) in implementing a Risk Based Regulatory Framework,"600,000.00",Botswana,22 Sep 2010,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-TZ-KF0-003,Tanzania - Institutional Support Project for Good Governance II,"5,198,891.19","Tanzania, United Republic of",20 Sep 2010,Completion,African Development Fund,Multi-Sector,Sovereign
+G-Z1-KB0-STY-001,Study to Create MIF Africa,"43,969.34",Multinational,07 Sep 2010,Completion,Global Affairs Canada ,Multi-Sector,Sovereign
+P-MZ-K00-008,Mozambique - Extractive Industry Transparency Initiative Project,"228,149.77",Mozambique,22 Jul 2010,Completion,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-BF-K00-008,Burkina Faso - Fifth Poverty Reduction Strategy Support Programme (PARSP V),"10,000,000.00",Burkina Faso,15 Jul 2010,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MA-K00-006,Morocco - Public Administration Reform Support Programme - Phase IV (PARAP IV),"83,846,192.54",Morocco,30 Jun 2010,Completion,African Development Bank,Multi-Sector,Sovereign
+P-ZM-KA0-004,Zambia - Third Poverty Reduction Budget Support Programme (PRBS-III),"31,900,000.00",Zambia,30 Jun 2010,Completion,African Development Fund,Multi-Sector,Sovereign
+G-Z2-KZ0-ZZZ-008,Meeting on Development Effectiveness,"48,421.97",Multinational,28 Jun 2010,Completion,Global Affairs Canada ,Multi-Sector,Sovereign
+P-BW-KZ0-003,Botswana - Mining and Diversifiaction Study,"275,047.98",Botswana,08 Jun 2010,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+G-Z1-KE0-STY-003,"Regional Integration & Stability - Integrated Infrastructure Action Plan in Liberia, Sierra-Leone, Guinea and Guinea Bissau.","410,731.98",Multinational,01 Jun 2010,Implementation,Global Affairs Canada ,Multi-Sector,Sovereign
+P-BI-K00-007,Burundi - Third Economic Reform Support Programme (ERSP III),"10,000,000.00",Burundi,19 May 2010,Completion,Fragile States Facility,Multi-Sector,Sovereign
+,,,,,,,,
+P-Z1-K00-043,Songwe River Basin Develoment Programme,"1,173,271.96",Multinational,28 Apr 2010,Completion,NEPAD Infrastructure Project Preparation Facility,Multi-Sector,Sovereign
+P-SZ-K00-002,Economic Diversification Study,"298,600.00",Eswatini,12 Apr 2010,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-MW-KZ0-005,Malawi - The Governance and Poverty Reduction Support Grant II (GPRSG II),"11,546,000.00",Malawi,07 Apr 2010,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GW-KA0-005,Guinea-Bissau - Emergency Fiscal Reform Support Programme (EFRSP),"5,700,000.00",Guinea-Bissau,24 Mar 2010,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MU-KA0-001,MIC Grant Supporting the Mauritius Competitiveness and Public Sector Efficiency Program (CPSE),"300,000.00",Mauritius,09 Feb 2010,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-Z1-KF0-012,Multinational - Regional African Domestic Bond Fund (ADBF) technical assistance,"707,925.17",Multinational,05 Feb 2010,Completion,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+G-SN-KZ0-STY-001,Regional Integration Plan for West Africa (Senegal),"54,237.27",Senegal,23 Jan 2010,Completion,Global Affairs Canada ,Multi-Sector,Sovereign
+P-TN-KF0-003,Tunisie - Étude sur l'évaluation de la performance sociale du système de microcrédit géré par la Banque Tunisienne de Solidarité (BTS),"139,484.00",Tunisia,06 Jan 2010,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-TN-KF0-002,Tunisie - Projet d'appui à l'Institut Tunisien de la Compétitivité et des Etudes Quantitatives (ITCEQ).,"198,848.00",Tunisia,03 Dec 2009,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-SC-K00-001,Seychelles - Policy based partial credit guarantee (PBPCG) programme,"7,123,826.35",Seychelles,02 Dec 2009,Approved,African Development Bank,Multi-Sector,Sovereign
+P-ML-K00-018,"Mali - Growth and Poverty Reduction Strategy Support Programme (GPRSSP) and assist in
+Mitigating the Impact of the Global Crisis","5,500,000.00",Mali,30 Nov 2009,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MU-K00-004,Mauritius - The Competitiveness and Public Sector Efficiency Programme (CPSE),"235,931,492.49",Mauritius,25 Nov 2009,Completion,African Development Bank,Multi-Sector,Sovereign
+P-MU-K00-005,Mauritius - The Competitiveness and Public Sector Efficiency Programme (CPSE),"122,577,828.53",Mauritius,25 Nov 2009,Completion,African Development Bank,Multi-Sector,Sovereign
+P-LS-KA0-001,Lesotho - Poverty Reduction Support Programme (PRSP),"6,380,000.00",Lesotho,17 Nov 2009,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CV-K00-006,"Cape Verde - Additional Budget Support Loan for the Poverty Reduction Strategy Support Programme II (PRSSP-II)
+ First tranche","16,829,775.24",Cape Verde,28 Oct 2009,Completion,African Development Bank,Multi-Sector,Sovereign
+P-CV-K00-007,"Cape Verde - Additional Budget Support Loan for the Poverty Reduction Strategy Support Programme II (PRSSP-II) 
+Second tranche","10,136,573.63",Cape Verde,28 Oct 2009,Completion,African Development Bank,Multi-Sector,Sovereign
+P-RW-KF0-004,Rwanda - The Support to Policy and Strategy Development Project (SPSD),"1,000,000.00",Rwanda,18 Sep 2009,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SC-KA0-001,Seychelles - The Economic Governance Reforms Programme,"12,593,612.52",Seychelles,20 Jul 2009,Completion,African Development Bank,Multi-Sector,Sovereign
+P-KM-KA0-001,Comoros - The Economic Reform Support and Financial Governance Programme (PAREGF),"2,000,000.00",Comoros,15 Jul 2009,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-KM-KF0-001,Comoros - The Institutional Capacity Building Project (ICBP),"5,057,240.38",Comoros,15 Jul 2009,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-BW-K00-001,Botswana - The Economic Diversification Support Programme,"1,062,480,963.88",Botswana,02 Jun 2009,Completion,African Development Bank,Multi-Sector,Sovereign
+P-Z1-KB0-005,Multinational - African Training and Management Services Project phase IV,"651,856.49",Multinational,28 May 2009,Completion,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-LR-K00-011,Liberia - The Public Financial Management Reform Support Programme (PFMRSP-I) - (Additional Grant),"3,386,000.00",Liberia,27 May 2009,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-CD-K00-005,DRC - Emergency Programme to Mitigate the Impacts of the Financial Crisis,"65,000,000.00","Congo, the Democratic Republic of the",06 May 2009,Completion,African Development Fund,Multi-Sector,Sovereign
+P-RW-K00-008,Rwanda - The Poverty Reduction Strategy Support Program III  (PRSP III),"30,300,000.00",Rwanda,06 May 2009,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SL-KA0-010,Sierra Leone - The Economic Governance Reform Programme I (EGRP I),"10,000,000.00",Sierra Leone,06 May 2009,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-Z1-K00-027,Multinational - Projet d'Appui Institutionnel au Secrétariat Général de l'Union du Maghreb Arabe (UMA),"500,000.00",Multinational,30 Apr 2009,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-BJ-KA0-009,Benin - The Third Growth and Poverty Reduction Strategy Support Program (GPRSSP-III),"22,000,000.00",Benin,29 Apr 2009,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TN-KA0-003,Tunisia - The Integration support programme,"177,114,033.10",Tunisia,16 Apr 2009,Completion,African Development Bank,Multi-Sector,Sovereign
+P-EG-KB0-001,Franchising Sector Support Programme - Technical Assistance Fapa,"619,263.66",Egypt,13 Apr 2009,Completion,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-GQ-K00-004,Projet d'appui à la mise en oeuvre du plan national de développement économique et social (PNDES),"395,515.25",Equatorial Guinea,10 Apr 2009,Cancelled,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-CI-K00-008,Côte d'Ivoire - The Economic and Financial Reform Support Programme (PAREF),"83,870,000.00",Cote d'Ivoire,06 Mar 2009,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MW-KZ0-004,Malawi - Poverty Reduction Support Programme I,"10,000,000.00",Malawi,06 Mar 2009,Completion,African Development Fund,Multi-Sector,Sovereign
+P-EG-K00-003,Egypt - The Franchising Sector Support Programme,"20,078,230.56",Egypt,25 Feb 2009,Completion,African Development Bank,Multi-Sector,Sovereign
+P-TG-K00-005,Togo - The Reform and Governance Support Programme (PARG),"10,000,000.00",Togo,11 Feb 2009,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-GM-K00-006,Gambia - The Poverty Reduction Budget Support Program,"3,000,000.00",Gambia,14 Jan 2009,Completion,African Development Fund,Multi-Sector,Sovereign
+P-RW-KF0-003,Rwanda - The Competitiveness and Enterprise Development Project Phase II (CEDP-II),"5,000,000.00",Rwanda,29 Dec 2008,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CV-K00-005,Cape Verde - The Poverty Reduction Strategy Support Programme II (PRSSP-II),"5,000,000.00",Cape Verde,22 Dec 2008,Completion,African Development Fund,Multi-Sector,Sovereign
+P-LR-K00-009,Liberia - Public Financial Management Reform Support Programme I (PFMRSP-I),"9,000,000.00",Liberia,22 Dec 2008,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-SN-K00-005,Senegal - The Poverty Reduction Strategy Support Programme (PRSSP),"30,000,000.00",Senegal,22 Dec 2008,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-ET-K00-009,Ethiopia - The Protection of Basic Services Program II,"110,000,000.00",Ethiopia,18 Dec 2008,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-021,Multinational -  Support Statistical Capacity Building in Regional Member Countries for Millenium Development Goals (MDG) Monitoring and Results Measurement,"17,850,000.00",Multinational,27 Nov 2008,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BI-K00-006,Burundi - The Second Phase of the Economic Reform Support Program (ERSP-II),"12,000,000.00",Burundi,25 Nov 2008,Completion,Fragile States Facility,Multi-Sector,Sovereign
+P-GQ-K00-003,Equatorial Guinea - The Public Finance Management Support Project,"3,752,501.02",Equatorial Guinea,25 Nov 2008,Completion,African Development Bank,Multi-Sector,Sovereign
+P-Z1-KB0-004,Multinational - African Business Roundtable,"324,675.32",Multinational,10 Nov 2008,Completion,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-TZ-K00-009,Tanzania - The Third Poverty Reduction Support Programme (PRSL III),"100,000,000.00","Tanzania, United Republic of",29 Oct 2008,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ZM-K00-003,Zambia - The Second Poverty Reduction Budget Support Program (PRBS II),"14,901,828.57",Zambia,29 Oct 2008,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MZ-K00-007,Mozambique - Loan to assist in the financing of the Second Poverty Reduction Support Program (PRSL II),"60,000,000.00",Mozambique,22 Oct 2008,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CF-KA0-002,Central African Republic - Grant to assist in the financing of the Second Phase of the Economic Reform Support Program (ERSP-II),"6,500,000.00",Central African Republic,15 Oct 2008,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ML-K00-015,Mali - The Growth and Poverty Reduction Strategy Support Programme (GPRSSP),"33,000,000.00",Mali,24 Sep 2008,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GH-KA0-003,Ghana - The Third Poverty Reduction Support Programme (PRSL III),"90,000,000.00",Ghana,17 Sep 2008,Completion,African Development Fund,Multi-Sector,Sovereign
+P-RW-KB0-001,Rwanda Private Sector Capacity Building Project ,"651,822.08",Rwanda,27 Aug 2008,Completion,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-TZ-K00-010,Tanzania - Partial Credit Guarantee Facility to CRDB Bank,"1,128,756.60","Tanzania, United Republic of",22 Jul 2008,Completion,African Development Bank,Multi-Sector,Non Sovereign
+P-Z1-K00-022,Multinational - Fragile States Fund Allocation from ADF-11,"408,430,000.00",Multinational,17 Jul 2008,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BF-K00-006,Burkina Faso - The Poverty Reduction Strategy Support Programme IV (PRSSP IV),"45,000,000.00",Burkina Faso,09 Jul 2008,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MG-K00-007,Madagascar - The Poverty Reduction Budget Support Program - Phase II (PRPSB II),"30,000,000.00",Madagascar,02 Jul 2008,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MA-K00-005,Morocco - The Public Administration Reform Support Programme – Phase III (PARSP III) ,"55,411,895.09",Morocco,25 Jun 2008,Completion,African Development Bank,Multi-Sector,Sovereign
+P-Z1-KF0-011,Multinational - Support to the African Capacity Building Foundation,"10,290,000.00",Multinational,19 Mar 2008,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BW-KZ0-002,Institutionnal Strengthnening Local Authorities for Effective Service Delivery,"283,594.67",Botswana,30 Jan 2008,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-GM-K00-007,Institutional Support Project for Economic Management,"1,400,000.00",Gambia,21 Nov 2007,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-AO-KF0-002,Angola - Financial Management Support Project (PAGEF),"4,352,840.01",Angola,14 Nov 2007,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ML-K00-017,Projet d'appui à la Décentralisation et au Développement économique Regional (PADDER),"3,515,500.03",Mali,26 Sep 2007,Completion,African Development Fund,Multi-Sector,Sovereign
+P-RW-K00-007,Rwanda - Poverty Reduction Strategy Support Programme - Phase II (PRSSP-II),"33,000,000.00",Rwanda,18 Jul 2007,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CF-K00-004,Central African Republic - Economic Reform Support Programme (PARE),"6,500,000.00",Central African Republic,15 Jun 2007,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-017,Multinational -Study on the creation of a Regional Economic Community for the General Secretariat of the Arab Maghreb Union,"264,936.82",Multinational,24 May 2007,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-DZ-K00-006,Algeria - Technical Assistance Project to the National Equipment Fund for Development (CNED),"600,000.00",Algeria,22 May 2007,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-MW-KZ0-003,Malawi - Poverty Reduction Support Loan,"14,890,000.00",Malawi,11 Apr 2007,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MU-K00-002,Mauritius - Development Budget Support Loan for The Economic Reform Program,"21,249,619.28",Mauritius,28 Mar 2007,Completion,African Development Bank,Multi-Sector,Sovereign
+P-ET-KZ0-002,Humanitarian Flood-Relief Assistance,"325,928.24",Ethiopia,22 Mar 2007,Completion,Special Relief Funds,Multi-Sector,Sovereign
+P-SD-KA0-001,Capacity Building for Poverty Reduction and Good Governance,"9,620,000.00",Sudan,07 Mar 2007,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BW-KA0-001,Support for Fast Tracking The Implementation of Vision 2016,"245,653.32",Botswana,01 Mar 2007,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-BW-KF0-001,Development of a Corporate Governance Code,"151,565.00",Botswana,01 Mar 2007,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-CG-K00-007,Republic of Congo - Expenditure Circuit and Poverty Indicators Improvement Support Project (PACDIP),"2,447,138.92",Congo,20 Dec 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ET-K00-007,Protection Basic Services Programme,"78,490,000.00",Ethiopia,20 Dec 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-016,Multinational - Support Program for Regional Technical Assistance Centers in Africa (AFRITAC-II),"2,934,381.32",Multinational,20 Dec 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CM-KA0-005,Cameroon - Governance Reform Support Program (PARG),"24,918,293.59",Cameroon,04 Dec 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CM-KA0-007,Cameroun - Programme d'appui aux reformes en matière de gouvernance,"1,411,173.61",Cameroon,04 Dec 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KZ0-010,Programme Régional de Réformes  des Marchés Publics - UEMOA,"4,000,000.00",Multinational,04 Dec 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-NE-K00-008,Niger - Decentralization Support Project,"2,409,222.65",Niger,29 Nov 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ZM-K00-002,Zambia - Poverty Reduction Budget Support (PRBS I),"20,000,000.00",Zambia,29 Nov 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-SZ-KA0-001,Institutional Support to Establish The Swaziland Revenue Authority (Sra),"492,677.00",Eswatini,28 Nov 2006,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-CV-K00-004,Cape Verde - Poverty Reduction Strategy Budget Support Program I (PRSSP I),"4,115,259.63",Cape Verde,21 Nov 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BI-KA0-002,Burundi - Economic Reform Support Programme I (ERSP I),"7,300,000.00",Burundi,08 Nov 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BF-K00-014,Burkina Faso - Projet d'appui aux Institutions Chargées de la Gestion des Ressources Publiques,"2,460,000.00",Burkina Faso,27 Oct 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-LR-K00-003,"Liberia - Institutional Support Project for Governance, Economic Management and
+Poverty Reduction","2,881,937.13",Liberia,27 Oct 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MZ-K00-004,Mozambique - Poverty Reduction Support Loan (PRSL I),"60,000,000.00",Mozambique,27 Oct 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GN-K00-005,Projet d'appui au Renforcement des capacités  de Gestion de la Dette et des Investissements Publics (PADIPOC),"1,289,976.57",Guinea,26 Jul 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-KE-KF0-003,Institutional Support for Good Governance (Kisgg),"5,479,311.11",Kenya,26 Jul 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BJ-KA0-013,Benin - Poverty Reduction Strategy Support Programme - Phase II,"14,874,042.97",Benin,24 Jul 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MG-K00-001,Madagascar - First Poverty Reduction Budget Support Programme (PRBSP - I),"34,957,839.23",Madagascar,24 Jul 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TG-K00-006,Togo - Institutional Capacity Building Support Project (PARCI),"2,177,762.33",Togo,24 Jul 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CF-K00-003,Projet d'appui à la Réhabilitation des capacités  de la Planification Economique,"3,289,785.20",Central African Republic,21 Jul 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-014,Comesa - Enhancing Procurement Reforms & Capacity Project,"5,530,436.25",Multinational,21 Jul 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MU-K00-001,Mauritius - Grant in Support of Reforms Program,"183,714.30",Mauritius,18 Jul 2006,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-MA-K00-004,Morocco - Public Administration Reform Support Programme - Phase II (PARSP II),"71,363,804.28",Morocco,28 Jun 2006,Completion,African Development Bank,Multi-Sector,Sovereign
+P-TZ-K00-008,Tanzania – Poverty Reduction Support Loan II (PRSL II),"50,000,000.00","Tanzania, United Republic of",28 Jun 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KB0-002,Multinational - Regional Franchising Program,"635,560.08",Multinational,22 Jun 2006,Completion,Fund for African Private Sector Assistance,Multi-Sector,Sovereign
+P-Z1-KB0-001,Multinational - Private Enterprise Partnership for Africa,"4,943,598.31",Multinational,15 Mar 2006,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BF-K00-012,Burkina Faso - Third Poverty Strategy Support Loan (PRSSP III),"30,000,000.00",Burkina Faso,14 Dec 2005,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ML-K00-014,Mali - Fourth Structural Adjustment Support Programme (SAP-IV),"34,921,675.69",Mali,12 Dec 2005,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-Z1-KE0-002,Programme for Infrastructure Development In Africa (PIDA),"1,670,000.00",Multinational,19 Oct 2005,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TD-KA0-002,Chad - Governance Reform Support Programme (PARG) – Reforms Support Aspect,"17,554,383.53",Chad,12 Oct 2005,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TD-KF0-003,"Chad - Governance Reform Support
+Programme (PARG) – Institutional Support Component","2,417,896.27",Chad,12 Oct 2005,Completion,African Development Fund,Multi-Sector,Sovereign
+P-NE-K00-007,Niger - Fifth Structural Adjustment Programme,"18,000,000.00",Niger,21 Sep 2005,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GH-K00-008,Ghana - Second Poverty Reduction Support Loan (PRSL II),"43,983,521.50",Ghana,07 Sep 2005,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SL-KA0-006,Economic Rehabilitation and Recovery Program,"10,658,305.53",Sierra Leone,27 Jul 2005,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BJ-KA0-007,Benin - Control Institutions Support Project (PAIC),"1,746,284.75",Benin,29 Jun 2005,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BW-KZ0-001,Botswana - Emergency Relief Support to the Victims of the 2002 Drought,"325,928.24",Botswana,22 Jun 2005,Completion,Special Relief Funds,Multi-Sector,Sovereign
+P-MZ-K00-005,Mozambique - Institutionnal Support for Public Sector Reform,"1,865,750.15",Mozambique,22 Jun 2005,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KZ0-012,Multinational - Post-Conflict Countries Arrears Clearance II,"45,000,000.00",Multinational,18 May 2005,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KZ0-013,Multinational - Post Conflict Countries Facility Supplementary Allocation,"150,000,000.00",Multinational,04 May 2005,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SN-KZ0-003,Projet de modernisation du cadastre,"2,195,681.12",Senegal,22 Apr 2005,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GW-KF0-002,Guinea Bissau - Economic Management Capacity Building Project,"1,118,093.14",Guinea-Bissau,02 Mar 2005,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TD-KE0-001,"Formulation et Préparation d'un Programme national d'alimentation en eau potable et d'assainissement en milieu rural (PNEAR) et  d'un Programme d'assainissement, d'alimentation en eau potable et d'électrification.","389,352.71",Chad,14 Feb 2005,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SC-KE0-001,Seychelles - Emergency Assistance to december 2004 Tsunami victims,"325,928.24",Seychelles,25 Jan 2005,Completion,Special Relief Funds,Multi-Sector,Sovereign
+P-MA-K00-003,Public Administration Reform Support Programme - Phase I ,"101,588,474.33",Morocco,20 Dec 2004,Completion,African Development Bank,Multi-Sector,Sovereign
+P-CG-K00-006,Programme d'appui aux Réformes  Economiques et de Décentralisation en milieu Rural,"6,969,229.37",Congo,13 Dec 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TZ-KF0-002,Tanzania - Institutionnal Support Project for Good Governance,"3,990,996.96","Tanzania, United Republic of",13 Dec 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BI-KA0-001,Programme d’Appui aux Réformes Economiques et à la Gouvernance (PAREG) 2005-2006.,"8,214,885.57",Burundi,08 Dec 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MG-KA0-005,Projet de Renforcement Institutionnel Visant la Bonne Gouvernance (Pribg),"5,597,368.30",Madagascar,08 Dec 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-MW-K00-002,Support for Good Governance Loan,"12,000,000.00",Malawi,08 Dec 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KZ0-007,Multinational - Institutional Support to the Liptako-Gourma Authority,"1,590,000.00",Multinational,08 Dec 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MZ-K00-002,Second Program of Economic Reform and Good Governance,"29,965,532.94",Mozambique,01 Dec 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-LS-K00-002,Institutionnal Support to Ministry of Finance and Ministry of Public Works and Transport,"682,197.43",Lesotho,24 Nov 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-UG-KF0-003,Uganda - Institutional Support Project for Good Governance (ISPGG),"8,950,013.05",Uganda,17 Nov 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KF0-006,Multinational - ECCAS General Secretariat Institutional Support Project,"2,341,106.04",Multinational,17 Nov 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-RW-K00-006,Poverty Reduction Strategy Support Program - Phase I (PASRP I 2004-2006),"21,900,000.00",Rwanda,27 Oct 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TZ-K00-007,Tanzania – Poverty Reduction Strategy Loan I (PRSL I),"50,000,000.00","Tanzania, United Republic of",27 Oct 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SL-K00-004,Institutional Support Project to Strengthen Public Financial Management & Energy Sector Project,"2,740,474.42",Sierra Leone,20 Oct 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KZ0-008,Multinational - Etude sur l'instauration d'une Zone de Libre échange entre les pays membres de la CEN-SAD (Communauté des États sahélo-sahariens),"100,000.00",Multinational,19 Oct 2004,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-ET-K00-006,Poverty Reduction Support Loan I,"60,000,000.00",Ethiopia,13 Oct 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CV-K00-003,Programme d'appui aux Réformes économiques  III,"2,500,000.00",Cape Verde,06 Oct 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-010,Multinational - Water Resources Planning and Management Project  of the Nile Basin Initiative (NBI) Member Countries,"2,075,287.28",Multinational,06 Oct 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KZ0-009,Multinational - Post-Conflict Countries Arrears Clearance,"55,000,000.00",Multinational,28 Sep 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BF-K00-011,Burkina Faso - Programme complémentaire d’appui à la stratégie de réduction de la pauvreté (PCASRP) II,"15,472,743.55",Burkina Faso,22 Sep 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-012,Multinational - Statistical Capacity Building project of Regional Member Countries of the International Comparison Program for Africa (ICP Africa),"14,750,000.00",Multinational,08 Sep 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GA-KA0-002,Etude en Appui à l'élaboration d'un Programme National de Bonne Gouvernance,"99,190.76",Gabon,03 Aug 2004,Completion,Middle Income Countries Fund,Multi-Sector,Sovereign
+P-ML-K00-011,Programme  Complementaire au Pas III,"8,600,000.00",Mali,19 Jul 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BI-KF0-001,Projet de renforcement des capacités  institutionnelles (PRCI),"2,130,000.00",Burundi,07 Jul 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GA-KA0-001,Programme d'ajustement Structurel III,"78,933,829.49",Gabon,30 Jun 2004,Completion,African Development Bank,Multi-Sector,Sovereign
+,,,,,,,,
+P-Z1-KF0-007,Multinational - African Training and Management Services (ATMS) Project / African Management Services Company (AMSCO),"1,598,956.14",Multinational,16 Jun 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BF-K00-002,Burkina Faso - Etude Schema d'aménagement du Territoire,"1,804,649.87",Burkina Faso,24 Mar 2004,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BJ-KA0-006,Benin - Poverty Reduction Strategy Support Program I (PRSP I),"24,145,456.59",Benin,10 Dec 2003,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CD-K00-002,Democratic Republic of Congo - Economic Recovery and Reunification Support Programme,"46,627,403.36","Congo, the Democratic Republic of the",10 Dec 2003,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SL-KA0-005,Economic Rehabilitation and Recovery Loan-II,"17,266,739.19",Sierra Leone,10 Dec 2003,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SN-KA0-005,Programme d’Appui à l’Ajustement du Secteur Privé (PAASP),"23,981,314.49",Senegal,10 Dec 2003,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-011,Multinational - Support Program for Regional Technical Assistance Centers in Africa (AFRITAC-II),"1,984,632.75",Multinational,27 Nov 2003,Completion,African Development Fund,Multi-Sector,Sovereign
+P-NE-K00-004,Niger - Etude d'impact environnemental et social du programme Kandadji,"1,100,000.00",Niger,19 Nov 2003,Completion,African Development Fund,Multi-Sector,Sovereign
+P-NE-K00-005,Niger - Fourth Structural Adjustment Programme (SAP IV),"13,954,962.37",Niger,12 Nov 2003,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GH-K00-007,Poverty Reduction Support Loan,"34,546,022.95",Ghana,22 Oct 2003,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CG-K00-005,Republic of Congo - Economic Management Support Project (EMSP),"364,562.50",Congo,17 Sep 2003,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MG-KA0-003,4ème Prêt d'ajustement Structurel,"24,982,382.05",Madagascar,17 Sep 2003,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TD-KF0-002,Chad - Economic Management Support Project (PAGE),"2,250,898.15",Chad,22 Jul 2003,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-009,Multinational - Institutional support project to the Common Court of Justice and Arbitration (CCJA),"546,622.79",Multinational,22 Jul 2003,Completion,African Development Fund,Multi-Sector,Sovereign
+P-RW-KE0-001,Rwanda - Drinking Water and Electricity Supply Programme (AEPE),"17,664,037.46",Rwanda,09 Jul 2003,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ER-KZ0-002,HUM.RELIEF TO VICT.OF THE 2002 DROUGHT,"365,868.83",Eritrea,02 Apr 2003,Completion,Special Relief Funds,Multi-Sector,Sovereign
+P-ET-KZ0-001,HUM.EMERG.RELIEF SUP.TO DROUGHT VICTIMS,"365,868.83",Ethiopia,02 Apr 2003,Completion,Special Relief Funds,Multi-Sector,Sovereign
+P-BF-KA0-005,Burkina Faso - Poverty Reduction Strategy Support Programme (PCASRP II),"25,000,000.00",Burkina Faso,15 Jan 2003,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CD-K00-001,Democratic Republic of Congo - Emergency Multisectoral Socioeconomic Infrastructure Rehabilitation Project,"24,892,362.99","Congo, the Democratic Republic of the",20 Dec 2002,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ML-K00-008,Mali - Good Governance Support Project (PABG),"1,431,918.63",Mali,20 Dec 2002,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-SN-KZ0-001,Projet d’Appui à la Direction de la Prévision et de la Statistique et à la Cellule de suivi de la mise en œuvre de la stratégie de lutte contre la Pauvreté,"1,339,191.04",Senegal,12 Dec 2002,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CD-KA0-001,Democratic Republic of Congo - Multisectoral Institutional Support Project,"3,171,877.02","Congo, the Democratic Republic of the",13 Nov 2002,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-018,Multinational - Computerization Project of the regional file of the Register of Commerce and the Furniture Credit (RCCM) of the Organization for the Harmonization of the Business Law in Africa (OHADA),"150,000.00",Multinational,08 Nov 2002,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ML-K00-009,Troisieme Programme d'ajustement Structurel,"22,251,054.93",Mali,16 Oct 2002,Completion,African Development Fund,Multi-Sector,Sovereign
+P-UG-K00-006,Poverty Reduction Support Loan,"40,418,495.54",Uganda,16 Oct 2002,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KZ0-003,SADC EMERGENCY HUMANITARIAN DROUGHT RELI,"2,926,950.63",Multinational,02 Oct 2002,Completion,Special Relief Funds,Multi-Sector,Sovereign
+P-CV-K00-002,Programme d'appui aux Réformes  Economiques II,"2,500,000.00",Cape Verde,04 Sep 2002,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CI-KA0-001,Programme d'appui à la Reforme économique I,"15,000,000.00",Cote d'Ivoire,17 Jul 2002,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CD-KZ0-001,République Démocratique du Congo - Projet d'Apurement des Arriérés,"48,173,810.28","Congo, the Democratic Republic of the",26 Jun 2002,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CD-KZ0-002,République Démocratique du Congo - Projet d'Apurement des Arriérés - Phase 2,"387,193,649.61","Congo, the Democratic Republic of the",26 Jun 2002,Completion,African Development Bank,Multi-Sector,Sovereign
+P-CD-KZ0-003,République Démocratique du Congo - Projet d'Apurement des Arriérés - Phase 3,"392,705,064.31","Congo, the Democratic Republic of the",26 Jun 2002,Completion,African Development Bank,Multi-Sector,Sovereign
+P-UG-K00-007,Uganda - Technical Assistance to the International law Institute,"149,597.44",Uganda,15 May 2002,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KF0-003,Multinational - Institutional Support to African Economic Research Consortium (AERC),"650,000.00",Multinational,15 May 2002,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KF0-005,Multinational - Institutional Support to African Technology Policy Studies Network (ATPS),"149,154.88",Multinational,15 May 2002,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CI-K00-006,Côte d'Ivoire - Mécanisme de Financement Supplémentaire  2001,"22,829,999.79",Cote d'Ivoire,03 Apr 2002,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BF-K00-001,Burkina Faso - Good Governance Support Project,"1,919,360.27",Burkina Faso,06 Feb 2002,Completion,African Development Fund,Multi-Sector,Sovereign
+P-DJ-K00-001,Djibouti - Structural Adjustment Loan I,"2,420,000.00",Djibouti,06 Feb 2002,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TD-KA0-001,Programme d'ajustement Structurel III,"8,697,876.57",Chad,06 Feb 2002,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CI-K00-004,Appui à la Bonne Gouvernance et au Renforcement des capacités ,"3,362,090.39",Cote d'Ivoire,16 Jan 2002,Completion,African Development Fund,Multi-Sector,Sovereign
+P-NE-K00-003,Niger - Third Structural Adjustment Programme,"10,000,000.00",Niger,17 Dec 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-ET-KF0-003,Capacity Building of Ministry of Economic Development,"505,298.50",Ethiopia,05 Dec 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+P-DJ-KF0-002,Projet de Renforcement Institutionnelle pour la Bonne Gouvernance des Finances Publiquesique,"1,052,880.49",Djibouti,28 Nov 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GH-K00-005,Institutional Support Project for Governance & Poverty Reduction,"2,987,627.55",Ghana,14 Nov 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+P-RW-K00-004,"Rwanda - Public Investment Programming and Management System
+Institutional Support Project (PARSPGIP)","1,999,963.20",Rwanda,14 Nov 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CM-KF0-001,Cameroon - National Governance Programme Support Project (NGPSP),"3,054,947.31",Cameroon,25 Oct 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ET-K00-005,Ethiopia - Structural Adjustment Loan II,"60,000,000.00",Ethiopia,18 Oct 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+P-NG-K00-002,"Institutional Support Project for Governance, Capacity Building and Poverty Reduction","3,815,260.45",Nigeria,18 Oct 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BF-KA0-003,Burkina Faso - Poverty Reduction Strategy Support Programme- Phase 1,"23,090,000.00",Burkina Faso,10 Oct 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GN-K00-003,Guinea - Third Structural Adjustment Programme (SAP III 2001 - 2002),"12,250,000.00",Guinea,27 Sep 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TZ-K00-004,Tanzania - Structural Adjustment Loan II (SAL II),"40,000,000.00","Tanzania, United Republic of",03 Sep 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TN-K00-003,"Tunisia - Fourth Line of Credit to “Banque Nationale Agricole (BNA)""","125,677,240.68",Tunisia,28 Jun 2001,Completion,African Development Bank,Multi-Sector,null
+P-ZM-KA0-001,Zambia - Support for Fiscal Transparency and Accountability (S-FTA),"16,361,363.63",Zambia,28 Jun 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ZR-KF0-001,Democratic Republic of Congo - National Capacity Building Programme Support Project (PANPURC),"1,643,328.62",Ex Zaire,20 Jun 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MR-KA0-001,Mauritania - Fiscal adjustment programme (FISAP),"9,944,545.45",Mauritania,21 May 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ER-KZ0-001,Eritrea - Emergency Reconstruction Program,"19,900,000.00",Eritrea,10 May 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-004,Comesa-Public Procurement Reform Project,"1,165,661.22",Multinational,18 Apr 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ST-KA0-001,Sao Tome and Principe - Structural Adjustment Programme III (SAP III),"1,600,000.00",Sao Tome and Principe,11 Apr 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CM-KA0-001,Programme d'Ajustement  Structurel 3 (2001-2003),"20,500,000.00",Cameroon,04 Apr 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SL-KA0-004,Economic Rehabilitation and Reconstruction Loan,"9,987,692.54",Sierra Leone,04 Apr 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GH-K00-004,Ghana - Second Economic Rehabilitation and Support Loan (ERSO II),"38,584,142.82",Ghana,29 Mar 2001,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-SN-KA0-002,Senegal - Tariff Reform and Competitiveness Promotion Programme,"19,995,197.84",Senegal,08 Dec 2000,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KF0-002,Multinational - Africa Project Development Facility (APDF) 2000,"1,495,192.79",Multinational,01 Dec 2000,Completion,African Development Fund,Multi-Sector,Sovereign
+P-LS-KE0-001,Lesotho - Public Utilities Sector Reform Programme,"6,492,628.58",Lesotho,22 Nov 2000,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-008,Multinational - Grant to African Management Services Company (AMSCO),"1,133,054.51",Multinational,16 Nov 2000,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ET-KF0-002,Ethiopia - Privatization Technical Assistance Project,"2,997,733.93",Ethiopia,08 Nov 2000,Completion,African Development Fund,Multi-Sector,Sovereign
+P-KE-KA0-002,Structural Adjustment Loan,"28,088,063.16",Kenya,03 Nov 2000,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MW-KF0-001,Malawi - Institutional support for aid/debt Management and governance,"547,751.71",Malawi,18 Oct 2000,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MR-K00-002,Mauritanie - Multi-sector Institutional Support Project (PAIM),"849,330.53",Mauritania,07 Jul 2000,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ZM-K00-001,Zambia - Supplementary Financing Mechanism (SFM) 2000,"4,865,206.54",Zambia,23 Jun 2000,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CM-K00-006,"Cameroun - Mécanisme  de Financement Supplémentaire  Phase 3, Année  2000","8,567,323.01",Cameroon,20 Jun 2000,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MG-KA0-002,Madagascar - Structural Adjustment Programme (SAL III),"15,987,426.10",Madagascar,27 Apr 2000,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SL-K00-001,Sierra Leone - Rehabilitation and Reconstruction Project,"8,716,672.45",Sierra Leone,09 Dec 1999,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MR-K00-004,Mauritania - Supplementary financing mechanism (SFM) for 1999,"1,995,000.00",Mauritania,12 Nov 1999,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TZ-K00-003,Tanzania - Supplementary Financing Mechanism,"540,878.86","Tanzania, United Republic of",14 Jul 1999,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MG-K00-006,Madagascar – Supplementary Financing Mechanism,"1,561,000.00",Madagascar,01 Jul 1999,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ZM-KZ0-004,Zambia - Economic Recovery Loan II,"11,497,362.47",Zambia,24 Mar 1999,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CM-K00-005,Mécanisme de Financement  Supplémentaire  II MFS 1999,"9,541,000.00",Cameroon,05 Feb 1999,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MR-K00-005,M  F S 1998 Mauritanie,"2,177,081.65",Mauritania,16 Dec 1998,Completion,African Development Fund,Multi-Sector,Sovereign
+P-UG-KF0-002,Uganda - Institutional  Support for External Aid Management Project,"1,452,495.58",Uganda,16 Dec 1998,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-003,Multinational - Acbf - African Capacity Building Foundation,"2,420,000.00",Multinational,16 Dec 1998,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-MW-KZ0-001,Malawi - Structural Adjustment Loan (SAL),"10,000,000.00",Malawi,15 Dec 1998,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MA-K00-002,Maroc - Programme de Réformes Economiques et Sociales (PRES),"145,605,329.33",Morocco,09 Dec 1998,Completion,African Development Bank,Multi-Sector,Sovereign
+P-TZ-K00-002,Tanzania - Supplementary Financing Mechanism,"615,003.37","Tanzania, United Republic of",04 Dec 1998,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MG-K00-005,Supplementary Financing Mechanism,"1,418,000.00",Madagascar,02 Dec 1998,Completion,African Development Fund,Multi-Sector,Sovereign
+P-NE-KA0-001,Programme  de réformes en Finances Publiques,"5,931,144.77",Niger,18 Nov 1998,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CM-K00-004,Mécanisme de Financement  Supplémentaire -MFS  1998,"9,872,999.99",Cameroon,12 Nov 1998,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GH-K00-003,Ghana - Institutional Support to two Ministries Project,"13,180,075.67",Ghana,12 Nov 1998,Completion,African Development Fund,Multi-Sector,Sovereign
+P-KE-KE0-001,Kenya - El Nino Infrastructure Rehabilitation Project,"7,092,509.90",Kenya,12 Nov 1998,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KF0-001,Taf Grant to African Eco. Resch. Consort,"148,874.49",Multinational,29 Oct 1998,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CV-KA0-003,Cape-Verde - Economic Reform Support Program (ERAP),"3,000,073.55",Cape Verde,28 Oct 1998,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GH-K00-002,Ghana - Institutional Support to two Ministries Project,"1,671,850.20",Ghana,28 Oct 1998,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GM-K00-003,Gambia - Institutional Support Project for Capacity Building,"639,131.83",Gambia,28 Oct 1998,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KZ0-001,Multinational - African Project Development Facility (APDF),"1,491,613.84",Multinational,23 Sep 1998,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CI-K00-001,Côte d'Ivoire - Supplementary Financing Mechanism Loan,"57,068,993.35",Cote d'Ivoire,21 Sep 1998,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ZA-K00-001,First Line of Credit to Dbsa- Development Bank of Southern Africa,"45,629,954.11",South Africa,09 Sep 1998,Completion,African Development Bank,Multi-Sector,null
+P-ZA-KZ0-001,Line of Credit to Devevopment Bank  for Southern Africa,"22,055,580.06",South Africa,09 Sep 1998,Completion,African Development Bank,Multi-Sector,null
+P-RW-K00-003,Rwanda - Second Structural Adjustment Programme (PASII),"15,280,000.00",Rwanda,15 Jul 1998,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ER-KF0-001,Eritrea - Economic and Financial Management programme (EFMP),"944,750.11",Eritrea,17 Jun 1998,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GA-K00-001,Gabon - Project to Support the Public Enterprise Restructuring/Privatization Programme,"1,732,896.61",Gabon,22 Apr 1998,Completion,African Development Bank,Multi-Sector,Sovereign
+P-GN-KA0-001,Guinea - Structural Adjustment Programme II (SAP II),"10,000,000.00",Guinea,10 Dec 1997,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-CM-K00-002,Programme d'ajustement Structurel II,"13,039,743.42",Cameroon,04 Dec 1997,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MG-KE0-002,Madagascar - Toliary Township Protection Project,"3,820,908.69",Madagascar,12 Nov 1997,Completion,African Development Fund,Multi-Sector,Sovereign
+P-RW-K00-002,Rwanda - Project for Institutional Support to the Ministry of finance and Economic Planning and the National Bank of Rwanda,"1,479,372.35",Rwanda,05 Nov 1997,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TZ-K00-001,Tanzania - Structural Adjustment Loan (SAL),"45,000,000.00","Tanzania, United Republic of",05 Nov 1997,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ML-K00-006,Programme d'appui à la Gestion économique,"14,965,283.19",Mali,29 Oct 1997,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TD-K00-003,Programme d'ajustement Structurel II,"18,107,828.93",Chad,02 Oct 1997,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MG-K00-003,Madagascar – Second Structural Adjustment Programme,"21,740,000.00",Madagascar,17 Sep 1997,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MG-K00-004,Aide Urgence-Cyclone Gretelle/Fabriola,"5,245,138.46",Madagascar,16 Jul 1997,Completion,African Development Fund,Multi-Sector,Sovereign
+P-UG-K00-002,Uganda - Second Structural Adjustment Loan,"27,769,258.42",Uganda,16 Jul 1997,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MZ-K00-001,Mozambique - Programme of Economic Reform and Good Governance for the Reduction of Poverty (PER GROP I),"99,952,830.23",Mozambique,02 Jul 1997,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TG-K00-002,3ème programme d'ajustement structurel - PAS III,"11,200,000.00",Togo,21 May 1997,Completion,African Development Fund,Multi-Sector,Sovereign
+P-DZ-K00-003,Algeria - Structural Adjustment Program,"150,000,000.00",Algeria,10 Dec 1996,Completion,African Development Bank,Multi-Sector,Sovereign
+P-NG-KB0-001,Invest.Proposal Abuja Inter.Diagnos.Cen.,"1,955,569.46",Nigeria,30 Oct 1996,Completion,African Development Bank,Multi-Sector,Non Sovereign
+P-SN-KC0-001,Projet de Raffinerie de Sel (Seph),"483,138.60",Senegal,20 Jun 1995,Completion,African Development Bank,Multi-Sector,Non Sovereign
+P-CG-K00-002,Programme d'ajustement Structurel II,"49,972,143.80",Congo,20 Oct 1994,Completion,African Development Bank,Multi-Sector,Sovereign
+P-GA-K00-003,Programme de Relance Economique 1994-95,"50,000,000.00",Gabon,20 Sep 1994,Completion,African Development Bank,Multi-Sector,Sovereign
+P-TN-K00-001,Programme de réformes économiques et financières,"79,992,791.18",Tunisia,23 Feb 1994,Completion,African Development Bank,Multi-Sector,Sovereign
+P-KE-KD0-004,Export Development Programme,"24,420,000.00",Kenya,22 Oct 1993,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MA-K00-001,Consolidation of the Structural Adjustment Programme,"99,999,997.77",Morocco,01 Sep 1993,Cancelled,African Development Bank,Multi-Sector,Sovereign
+P-ET-K00-002,Ethiopia - Structural Adjustment Programme - Sap I,"63,541,633.04",Ethiopia,23 Jun 1993,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-ZM-KZ0-002,Zambia - Institutional Support Project,"690,686.95",Zambia,19 May 1993,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GA-KB0-001,Projet de Développement des PME/PMI,"18,786,953.41",Gabon,06 May 1993,Cancelled,African Development Bank,Multi-Sector,Sovereign
+P-GQ-K00-001,Equatorial Guinea - Institutional Support Project to the Ministry of Planning and Economic Development,"807,403.72",Equatorial Guinea,15 Dec 1992,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ML-K00-003,Mali - Structural Adjustment Programme (SAP),"5,526,063.07",Mali,15 Dec 1992,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SL-KA0-002,Sierra Leone - Structural Adjustment and Social Action Programme,"5,244,000.55",Sierra Leone,02 Oct 1992,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TG-KA0-001,2ème programme d'ajustement structurel,"11,513,150.00",Togo,24 Aug 1992,Completion,African Development Fund,Multi-Sector,Sovereign
+P-DZ-K00-002,Algeria - Foreign Trade Adjustment Program,"147,019,543.15",Algeria,24 Jun 1992,Completion,African Development Bank,Multi-Sector,Sovereign
+P-BF-KA0-002,Burkina Faso - Social Dimensions of Adjustment Institutional Support Project,"671,651.74",Burkina Faso,27 May 1992,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BJ-KA0-003,"Benin - Institutional Support Project for the Ministries of Finance, Planning and Economic Restructuring","3,591,925.51",Benin,25 May 1992,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ET-KE0-001,Emergency Recovery and Reconstruction,"86,620,866.63",Ethiopia,21 Apr 1992,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GQ-K00-002,"Programme d'ajustement structurel de 1991 à 1994, phase 2","8,240,652.85",Equatorial Guinea,21 Apr 1992,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CI-KZ0-001,Programme Ajustement  Secteur Financier,"49,999,517.26",Cote d'Ivoire,23 Mar 1992,Completion,African Development Bank,Multi-Sector,Sovereign
+P-TZ-KD0-001,Export Processing Zone Study,"481,555.38","Tanzania, United Republic of",26 Feb 1992,Completion,African Development Fund,Multi-Sector,Sovereign
+P-EG-KA0-001,Instit. Sup for Minist of Intern. Cooper,"2,302,630.00",Egypt,27 Jan 1992,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CF-K00-001,Programme d' Ajustement  Structurel - Phase III,"13,815,780.00",Central African Republic,16 Dec 1991,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SD-K00-001,Institutionnal Strenghning of Ministry of Finance and Planning,"2,718,222.85",Sudan,16 Dec 1991,Completion,African Development Fund,Multi-Sector,Sovereign
+P-UG-K00-001,Structural Adjustment Programme (I),"23,026,299.92",Uganda,16 Dec 1991,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-KE0-001,Etudes Pont Fleuve Gambie Schema Direct.,"3,176,399.40",Multinational,16 Dec 1991,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ZW-KZ0-001,Esap- Social Dimensions of Adjustment,"129,605,259.99",Zimbabwe,16 Dec 1991,Completion,African Development Bank,Multi-Sector,Sovereign
+P-BJ-KA0-002,Programme d'ajustement Structurel II,"13,815,780.00",Benin,25 Nov 1991,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-GH-KB0-001,Private Sector Adjustment Loan,"18,421,040.00",Ghana,25 Nov 1991,Completion,African Development Fund,Multi-Sector,Sovereign
+P-KM-K00-002,Prêt d'ajustement structurel,"7,557,922.90",Comoros,29 Oct 1991,Completion,African Development Fund,Multi-Sector,Sovereign
+P-LS-K00-001,Lesotho - Institutional Support Project to the Ministries of Finance and Planning,"771,438.95",Lesotho,25 Sep 1991,Completion,African Development Fund,Multi-Sector,Sovereign
+P-EG-K00-001,Structural Adjustment Programme,"50,000,000.00",Egypt,24 Sep 1991,Completion,African Development Bank,Multi-Sector,Sovereign
+P-RW-K00-001,Programme d'ajustement Structurel I,"10,953,250.86",Rwanda,28 Aug 1991,Cancelled,African Development Fund,Multi-Sector,Sovereign
+P-BI-K00-003,Programme d' ajustement  structurel I Supplémentaire ,"7,828,941.97",Burundi,18 Jun 1991,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ZM-KZ0-001,Economic Recovery Loan II,"18,421,040.00",Zambia,18 Jun 1991,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ML-K00-002,Programme d'ajustement Structurel,"13,815,780.00",Mali,17 Jun 1991,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MR-K00-003,Projet de renforcement institutionnel à dimension sociale,"702,946.80",Mauritania,18 Mar 1991,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MG-K00-002,Appui Budgétaire ,"1,380,000.00",Madagascar,26 Feb 1991,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SL-K00-002,Sierra Leone - Institutional Strengthening Programme for Debt Management Units,"185,206.31",Sierra Leone,25 Feb 1991,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BF-KF0-001,Burkina Faso - Capacity Building in Four Ministries,"2,443,977.68",Burkina Faso,29 Jan 1991,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CV-KA0-001,Appui Institutionnel  au Ministère de l'industrie et de l'Energie ,"983,785.82",Cape Verde,28 Jan 1991,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TD-K00-001,"Chad - Institutional Support Project for Three Ministries (Agriculture, Finance and Planning)","3,837,534.33",Chad,17 Dec 1990,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TG-K00-001,Togo - Ministry of Planning Institutional Support Programme,"2,710,731.77",Togo,17 Dec 1990,Completion,African Development Fund,Multi-Sector,Sovereign
+P-BI-K00-002,Programme d'ajustement Structurel I,"10,592,098.00",Burundi,30 Oct 1990,Completion,African Development Fund,Multi-Sector,Sovereign
+P-KE-KF0-001,Institutional Support for Tax Modernization Program - II,"3,315,786.32",Kenya,30 Oct 1990,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ST-K00-003,Appui Institutionnel au M. P. F.,"1,400,189.98",Sao Tome and Principe,30 Oct 1990,Completion,African Development Fund,Multi-Sector,Sovereign
+P-DJ-KF0-001,Appui Institutionnel  à la planification économique,"1,377,529.40",Djibouti,17 Sep 1990,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ST-K00-002,"Programme d'ajustement structurel, phase 2","9,210,520.00",Sao Tome and Principe,28 Aug 1990,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-KE-KD0-003,Study for Mombasa Export Processing Zone,"728,349.97",Kenya,27 Aug 1990,Completion,African Development Fund,Multi-Sector,Sovereign
+P-UG-KF0-001,Uganda - Institutional Support Grant to Uganda Electricity Board,"4,298,672.50",Uganda,15 May 1990,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SN-KF0-001,"Projet d'Appui Institutionnel au Ministère de l'Economie,
+des Finances et du Plan.","4,389,533.21",Senegal,14 May 1990,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CV-KA0-002,Cap-Vert - Projet d'Appui Institutionnel aux Ministères du Plan et des Finances,"3,190,546.13",Cape Verde,18 Apr 1990,Completion,African Development Fund,Multi-Sector,Sovereign
+P-DZ-K00-001,Algeria - Support for Economic Reforms,"149,946,213.85",Algeria,17 Apr 1990,Completion,African Development Bank,Multi-Sector,Sovereign
+P-AO-K00-001,Angola - Rehabilitation and Reconstruction of the National Economy,"451,114.79",Angola,14 Mar 1990,Cancelled,African Development Fund,Multi-Sector,Sovereign
+P-BJ-KA0-001,1er Programme d' Ajustement  Structurel,"11,052,634.09",Benin,14 Mar 1990,Completion,African Development Fund,Multi-Sector,Sovereign
+P-SN-K00-001,Programme d'Ajustement Structurel II,"30,506,390.42",Senegal,14 Mar 1990,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GM-K00-001,Second Structural Adjustment Loan,"6,198,806.33",Gambia,16 Jan 1990,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CM-K00-001,Programme d'ajustement Structurel,"100,000,000.00",Cameroon,23 Aug 1989,Completion,African Development Bank,Multi-Sector,Sovereign
+P-ET-KF0-001,Institutionnal  Support to Valley development,"2,560,776.60",Ethiopia,23 Aug 1989,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GW-K00-002,Programme d'ajustement Structurel,"13,608,195.35",Guinea-Bissau,22 Aug 1989,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GW-KF0-001,Programme d'appui institutionnel au ministère de la planification,"2,913,711.09",Guinea-Bissau,22 Aug 1989,Cancelled,African Development Fund,Multi-Sector,Sovereign
+P-MA-KA0-001,Programme d'ajustement Structurel,"100,000,000.00",Morocco,22 Aug 1989,Completion,African Development Bank,Multi-Sector,Sovereign
+P-GN-KF0-001,Projet d'appui au Développement  Socio-économique,"1,401,436.73",Guinea,21 Aug 1989,Completion,African Development Fund,Multi-Sector,Sovereign
+P-Z1-K00-005,Etude Macro-économique d'un Programme pour le Développement du Fleuve Sénégal,"592,909.34",Multinational,13 Jun 1989,Completion,African Development Fund,Multi-Sector,Sovereign
+P-NG-KE0-001,Nigeria - Anambra/Enugu/Ebonyi States Rural Infrastructures Project,"61,404,043.34",Nigeria,21 Apr 1989,Completion,African Development Bank,Multi-Sector,Sovereign
+P-GN-K00-002,Projet d'appui à la gestion de l'économie nationale,"3,142,498.91",Guinea,23 Feb 1989,Completion,African Development Fund,Multi-Sector,Sovereign
+P-KE-KA0-001,Industrial Sector Adjustment Loan,"48,421,040.01",Kenya,23 Feb 1989,Completion,African Development Bank,Multi-Sector,Sovereign
+P-CF-K00-002,Programme d'ajustement Structurel II,"18,421,042.70",Central African Republic,18 Jan 1989,Completion,African Development Fund,Multi-Sector,Sovereign
+,,,,,,,,
+P-TD-K00-002,Projet de restructuration économique et financière du secteur public,"27,631,579.72",Chad,18 Jan 1989,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GN-K00-001,Programme d'ajustement Structurel,"13,815,779.98",Guinea,17 Jan 1989,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MG-KA0-001,Programme d'ajustement Structurel,"27,597,298.95",Madagascar,17 Jan 1989,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TN-K00-002,Programme d'ajustement Structurel,"74,999,999.99",Tunisia,17 Jan 1989,Completion,African Development Bank,Multi-Sector,Sovereign
+P-GM-K00-004,Social Dimension of Adjustment,"1,969,032.15",Gambia,20 Sep 1988,Completion,African Development Fund,Multi-Sector,Sovereign
+P-TG-K00-004,Programme d'ajustement structurel phase 1,"13,815,780.00",Togo,24 Jun 1988,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GA-K00-002,Programme d'ajustement Structurel I,"45,000,000.00",Gabon,23 Jun 1988,Completion,African Development Bank,Multi-Sector,Sovereign
+P-MG-KE0-001,Etude Regularisat  Fiherenana- Protect,"1,528,946.00",Madagascar,27 May 1988,Completion,African Development Fund,Multi-Sector,Sovereign
+P-UG-K00-003,Economic Recovery Loan (P),"27,523,456.96",Uganda,27 May 1988,Completion,African Development Fund,Multi-Sector,Sovereign
+P-MZ-KA0-001,Economic Rehabilitation Programme,"31,944,489.95",Mozambique,28 Apr 1988,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ML-K00-001,Programme de restructuration du secteur des entreprises publiques,"32,236,820.00",Mali,26 Apr 1988,Completion,African Development Fund,Multi-Sector,Sovereign
+P-CG-K00-001,Programme d'ajustement Structurel,"40,000,000.00",Congo,17 Sep 1987,Completion,African Development Bank,Multi-Sector,Sovereign
+P-SN-KA0-001,Programme d'ajustement Structurel I,"27,631,560.00",Senegal,26 Aug 1987,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ST-K00-001,"Programme d'ajustement structurel, phase 1","6,907,890.00",Sao Tome and Principe,19 Aug 1987,Completion,African Development Fund,Multi-Sector,Sovereign
+P-GW-K00-001,Projet d'ajustement Structurel,"9,210,520.00",Guinea-Bissau,17 Jun 1987,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ZR-K00-001,Appui Institutionnel au Dept du Plan,"807,510.15",Ex Zaire,24 Mar 1987,Cancelled,African Development Fund,Multi-Sector,Sovereign
+P-GM-KA0-001,Projet de réhabilitation multi-sectorielle,"9,210,519.98",Gambia,29 Oct 1986,Completion,African Development Fund,Multi-Sector,Sovereign
+P-ST-K00-004,Projet: assistance technique au ministère du plan,"1,009,726.22",Sao Tome and Principe,11 Apr 1985,Completion,African Development Fund,Multi-Sector,Sovereign
+P-LR-K00-001,Liberia - Line of Credit IV,"3,000,000.00",Liberia,24 Aug 1981,Cancelled,African Development Bank,Multi-Sector,Sovereign
+P-ML-K00-007,Prise de Participartion Siea,"633,489.00",Mali,04 Jun 1970,Completion,African Development Bank,Multi-Sector,Sovereign
+,,,,,,,,
+,,,,,,,,
+African Development Bank Group,,,,,,,,IATI Data Portal
+,,,,,,,,
