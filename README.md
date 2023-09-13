@@ -17,3 +17,6 @@ Based on Streamlit library.
 ## 3. Body pose detector and training counter 
 It uses the landmarks to reveal the standing position of the body and performs some exercises through the angles between the different landmarks.
 Based on Mediapipe library
+
+## And 6 small projects: 
+### 
